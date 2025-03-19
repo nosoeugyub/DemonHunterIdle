@@ -1,0 +1,142 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40b35c59047925345993f4d9d41e9112, type: 3}
+  m_Name: Mage_CostumeSO
+  m_EditorClassIdentifier: 
+  WeaponCostumes:
+  - CostumeName: MageNormalWeapon
+    CostumeType: 6
+    CostumeSetType: 1
+    Mesh:
+    - {fileID: 4300000, guid: 670f5ef9adc76424cb818ac381f55e29, type: 2}
+    Material:
+    - {fileID: 2100000, guid: f25b08c9be1acf046865a4ebdea6e977, type: 2}
+  BackCostumes:
+  - CostumeName: MageNormalBack
+    CostumeType: 6
+    CostumeSetType: 1
+    Mesh:
+    - {fileID: 4300000, guid: 60def904358c9bb4d8bda8d25a2c9ad1, type: 2}
+    Material:
+    - {fileID: 2100000, guid: f25b08c9be1acf046865a4ebdea6e977, type: 2}
+  CloakCostumes:
+  - CostumeName: MageNormalCloak
+    CostumeType: 9
+    CostumeSetType: 1
+    Mesh:
+    - {fileID: 4300000, guid: 5e05604603089b44b8d826e77ee04ee2, type: 2}
+    Material:
+    - {fileID: 2100000, guid: f25b08c9be1acf046865a4ebdea6e977, type: 2}
+  ClothCostumes:
+  - CostumeName: MageNormalClothes
+    CostumeType: 10
+    CostumeSetType: 1
+    Mesh:
+    - {fileID: 4300000, guid: 12668be06428a9f469c03fcb4ef25960, type: 2}
+    - {fileID: 4300000, guid: 8c37ba49dfb5e3d46b824a65ba071731, type: 2}
+    - {fileID: 4300000, guid: 4c403334d013f4e46ab1f38588acc085, type: 2}
+    - {fileID: 4300000, guid: b24fb0795a848d14591f16923e3b0ed3, type: 2}
+    - {fileID: 4300000, guid: 83008ebfdb5900d47a16524d8049f0a0, type: 2}
+    - {fileID: 4300000, guid: 499851248614d024a9ba375557a1d041, type: 2}
+    - {fileID: 4300000, guid: 3f9e68d8863544a4096367bb47c76ced, type: 2}
+    - {fileID: 4300000, guid: d24b786d54e3fc14babeae1078023a06, type: 2}
+    Material:
+    - {fileID: 2100000, guid: f7d167dbb8387f347908255e1122a7c5, type: 2}
+  GlovesCostumes:
+  - CostumeName: MageNormalGloves
+    CostumeType: 11
+    CostumeSetType: 1
+    Mesh:
+    - {fileID: 4300000, guid: 2f4fae7db5d3f5d44bd6620da05d156d, type: 2}
+    Material:
+    - {fileID: 2100000, guid: f25b08c9be1acf046865a4ebdea6e977, type: 2}
+  ShoesCostumes:
+  - CostumeName: MageNormalShoes
+    CostumeType: 12
+    CostumeSetType: 1
+    Mesh:
+    - {fileID: 4300000, guid: 18710d8f2260a4441bf5fd7ba1ed72d3, type: 2}
+    Material:
+    - {fileID: 2100000, guid: f7d167dbb8387f347908255e1122a7c5, type: 2}
+  NecklaceCostumes:
+  - CostumeName: MageNormalNecklace
+    CostumeType: 7
+    CostumeSetType: 1
+    Mesh:
+    - {fileID: 4300000, guid: 01959aaf86525154f86bcdde3d2b7ecb, type: 2}
+    Material:
+    - {fileID: 2100000, guid: f7d167dbb8387f347908255e1122a7c5, type: 2}
+  EaringsCostumes:
+  - CostumeName: MageNormalEarrings
+    CostumeType: 8
+    CostumeSetType: 1
+    Mesh:
+    - {fileID: 4300000, guid: 66bf9d6c228c9d947978cc643f79948c, type: 2}
+    Material:
+    - {fileID: 2100000, guid: f25b08c9be1acf046865a4ebdea6e977, type: 2}
+  LeftBraceletCostumes:
+  - CostumeName: MageNormalLeftBracelet
+    CostumeType: 13
+    CostumeSetType: 1
+    Mesh: []
+    Material: []
+  RightBraceletCostumes:
+  - CostumeName: MageNormalRightBracelet
+    CostumeType: 14
+    CostumeSetType: 1
+    Mesh: []
+    Material: []
+  LeftRingCostumes:
+  - CostumeName: MageNormalLeftRing
+    CostumeType: 15
+    CostumeSetType: 1
+    Mesh:
+    - {fileID: 4300000, guid: 97de02b10b1ed3d409015cfd4631495a, type: 2}
+    Material:
+    - {fileID: 2100000, guid: f7d167dbb8387f347908255e1122a7c5, type: 2}
+  RightRingCostumes:
+  - CostumeName: MageNormalRightRing
+    CostumeType: 16
+    CostumeSetType: 1
+    Mesh: []
+    Material: []
+  PetCostumes:
+  - CostumeName: MageNormalPet
+    CostumeType: 1
+    CostumeSetType: 1
+    Mesh: []
+    Material: []
+  HatCostumes:
+  - CostumeName: MageNormalHat
+    CostumeType: 2
+    CostumeSetType: 1
+    Mesh:
+    - {fileID: 4300000, guid: 65de92290e43283489d625ace5626f61, type: 2}
+    Material:
+    - {fileID: 2100000, guid: f25b08c9be1acf046865a4ebdea6e977, type: 2}
+  WingCostumes:
+  - CostumeName: MageNormalWing
+    CostumeType: 4
+    CostumeSetType: 1
+    Mesh:
+    - {fileID: 4300000, guid: c7ea60f2d64a53649aff05e7e15ba9a6, type: 2}
+    Material:
+    - {fileID: 2100000, guid: f25b08c9be1acf046865a4ebdea6e977, type: 2}
+  MaskCostumes:
+  - CostumeName: MageRareMask
+    CostumeType: 5
+    CostumeSetType: 2
+    Mesh:
+    - {fileID: 4300000, guid: c4edbbd679c3f6c4abd7fb618d1f59e9, type: 2}
+    Material:
+    - {fileID: 2100000, guid: f25b08c9be1acf046865a4ebdea6e977, type: 2}
+  HairCostumes: []

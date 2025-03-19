@@ -1,0 +1,233 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40b35c59047925345993f4d9d41e9112, type: 3}
+  m_Name: Archer_CostumeSO
+  m_EditorClassIdentifier: 
+  WeaponCostumes:
+  - CostumeName: ArcherNormalWeapon
+    CostumeType: 9
+    CostumeSetType: 1
+    Mesh:
+    - {fileID: 4300000, guid: a50391663fa15764ebfe80d2d6de891b, type: 2}
+    Material:
+    - {fileID: 2100000, guid: 09f5d6c67b4ef1b4086ffec8819629f9, type: 2}
+    costumeEffect: []
+    curEquipMaterial: 0
+  - CostumeName: ArcherSuperiorWeapon
+    CostumeType: 9
+    CostumeSetType: 2
+    Mesh:
+    - {fileID: 4300000, guid: 9c8f7c82b7ae28e4b912c7e6cfffd811, type: 2}
+    - {fileID: 4300000, guid: e2a0e583c82fc314d9d17a49243861dc, type: 2}
+    Material:
+    - {fileID: 2100000, guid: 09f5d6c67b4ef1b4086ffec8819629f9, type: 2}
+    costumeEffect:
+    - {fileID: 1645679211076297492, guid: 24f557a2b665d7d4d930623c181a86b8, type: 3}
+    curEquipMaterial: 0
+  BackCostumes: []
+  CloakCostumes:
+  - CostumeName: ArcherNormalCloak
+    CostumeType: 5
+    CostumeSetType: 1
+    Mesh:
+    - {fileID: 4300000, guid: 1a8f6e602b11d834da29b46ab4fbd5fe, type: 2}
+    Material:
+    - {fileID: 2100000, guid: 37c2bae61197fbc43a000532109b7196, type: 2}
+    costumeEffect: []
+    curEquipMaterial: 0
+  - CostumeName: ArcherSuperiorCloak
+    CostumeType: 5
+    CostumeSetType: 2
+    Mesh:
+    - {fileID: 4300000, guid: 6da0accb50e60f44a9259a5f170c377f, type: 2}
+    - {fileID: 4300000, guid: a1801330e4c0f884596b826c3a567c2a, type: 2}
+    Material:
+    - {fileID: 2100000, guid: f0817921c46d03043b10c97800017cfa, type: 2}
+    costumeEffect: []
+    curEquipMaterial: 0
+  ClothCostumes:
+  - CostumeName: ArcherNormalClothes
+    CostumeType: 10
+    CostumeSetType: 1
+    Mesh:
+    - {fileID: 4300000, guid: 76c7674a8971dbb4d93c854994c15550, type: 2}
+    - {fileID: 4300000, guid: 3933725d1b4d1434fb81282ed2a8a1ee, type: 2}
+    - {fileID: 4300000, guid: 390bd9b6bcd203c4b9709cace43ec346, type: 2}
+    - {fileID: 4300000, guid: f155bccaca2a80a42b105b35dbfdf957, type: 2}
+    Material:
+    - {fileID: 2100000, guid: 37c2bae61197fbc43a000532109b7196, type: 2}
+    costumeEffect: []
+    curEquipMaterial: 0
+  - CostumeName: ArcherSuperiorClothes
+    CostumeType: 10
+    CostumeSetType: 2
+    Mesh:
+    - {fileID: 4300000, guid: b4e59dc935d95ca4a8333755a6ca19f6, type: 2}
+    - {fileID: 4300000, guid: b79a79d57f51c9d4c9050fa4512a508a, type: 2}
+    - {fileID: 4300000, guid: a73f58a216da94248ab6c554bbafde66, type: 2}
+    - {fileID: 4300000, guid: efdb6cb634f0f31418d210fe18a8b6e1, type: 2}
+    Material:
+    - {fileID: 2100000, guid: 37c2bae61197fbc43a000532109b7196, type: 2}
+    costumeEffect: []
+    curEquipMaterial: 0
+  GlovesCostumes:
+  - CostumeName: ArcherNormalGloves
+    CostumeType: 15
+    CostumeSetType: 1
+    Mesh:
+    - {fileID: 4300000, guid: 806ce02d1a2734a45b701ffffd73c730, type: 2}
+    - {fileID: 4300000, guid: 42efa8fa97bd5f748b828227fd00dc2b, type: 2}
+    Material:
+    - {fileID: 2100000, guid: 37c2bae61197fbc43a000532109b7196, type: 2}
+    costumeEffect: []
+    curEquipMaterial: -1
+  - CostumeName: ArcherSuperiorGloves
+    CostumeType: 15
+    CostumeSetType: 1
+    Mesh:
+    - {fileID: 4300000, guid: 1481fd679a6218947b3b1dfce29435ac, type: 2}
+    Material:
+    - {fileID: 2100000, guid: 37c2bae61197fbc43a000532109b7196, type: 2}
+    costumeEffect: []
+    curEquipMaterial: -1
+  ShoesCostumes:
+  - CostumeName: ArcherNormalShoes
+    CostumeType: 16
+    CostumeSetType: 1
+    Mesh:
+    - {fileID: 4300000, guid: 45b8cabb01f9a224688153b0984beb1d, type: 2}
+    - {fileID: 4300000, guid: e2fb63b02af7b1640b803c40e28f4284, type: 2}
+    Material:
+    - {fileID: 2100000, guid: 37c2bae61197fbc43a000532109b7196, type: 2}
+    costumeEffect: []
+    curEquipMaterial: 0
+  - CostumeName: ArcherSupertorShoes
+    CostumeType: 16
+    CostumeSetType: 2
+    Mesh:
+    - {fileID: 4300000, guid: d5d52c075b79bbd4a9588b30e4084a5e, type: 2}
+    Material:
+    - {fileID: 2100000, guid: 37c2bae61197fbc43a000532109b7196, type: 2}
+    costumeEffect: []
+    curEquipMaterial: 0
+  NecklaceCostumes: []
+  EaringsCostumes: []
+  LeftBraceletCostumes:
+  - CostumeName: ArcherNormalLeftBracelet
+    CostumeType: 11
+    CostumeSetType: 1
+    Mesh:
+    - {fileID: 4300000, guid: 170438ded8a1af74994c12aea28dcaf6, type: 2}
+    Material:
+    - {fileID: 2100000, guid: 09f5d6c67b4ef1b4086ffec8819629f9, type: 2}
+    costumeEffect: []
+    curEquipMaterial: 0
+  - CostumeName: ArcherSuperiorLeftBracelet
+    CostumeType: 11
+    CostumeSetType: 2
+    Mesh:
+    - {fileID: 4300000, guid: d89cf38eb7c80884b8cbbb76f5160bf9, type: 2}
+    Material:
+    - {fileID: 2100000, guid: 09f5d6c67b4ef1b4086ffec8819629f9, type: 2}
+    costumeEffect: []
+    curEquipMaterial: 0
+  RightBraceletCostumes:
+  - CostumeName: ArcherNormalRightBracelet
+    CostumeType: 12
+    CostumeSetType: 1
+    Mesh:
+    - {fileID: 4300000, guid: fea04e3dd611fef4c85e8bb4af46f096, type: 2}
+    Material:
+    - {fileID: 2100000, guid: 09f5d6c67b4ef1b4086ffec8819629f9, type: 2}
+    costumeEffect: []
+    curEquipMaterial: -1
+  - CostumeName: ArcherSuperiorRightBracelet
+    CostumeType: 12
+    CostumeSetType: 2
+    Mesh:
+    - {fileID: 4300000, guid: 83449ed50505e4646a25541826162b31, type: 2}
+    Material:
+    - {fileID: 2100000, guid: 09f5d6c67b4ef1b4086ffec8819629f9, type: 2}
+    costumeEffect: []
+    curEquipMaterial: -1
+  LeftRingCostumes:
+  - CostumeName: ArcherNormalLeftRing
+    CostumeType: 13
+    CostumeSetType: 1
+    Mesh:
+    - {fileID: 4300000, guid: 19cb00dbd453d85489cde41eef40a543, type: 2}
+    Material:
+    - {fileID: 2100000, guid: 37c2bae61197fbc43a000532109b7196, type: 2}
+    costumeEffect: []
+    curEquipMaterial: -1
+  - CostumeName: ArcherSuperiorLeftRing
+    CostumeType: 13
+    CostumeSetType: 2
+    Mesh:
+    - {fileID: 4300000, guid: a6a094ec410e5c8439a006270c9dfeae, type: 2}
+    Material:
+    - {fileID: 2100000, guid: 37c2bae61197fbc43a000532109b7196, type: 2}
+    costumeEffect: []
+    curEquipMaterial: -1
+  RightRingCostumes:
+  - CostumeName: ArcherNormalRightRing
+    CostumeType: 14
+    CostumeSetType: 1
+    Mesh:
+    - {fileID: 4300000, guid: 5e2841eaaecce0c4abc1213001e2e171, type: 2}
+    Material:
+    - {fileID: 2100000, guid: 37c2bae61197fbc43a000532109b7196, type: 2}
+    costumeEffect: []
+    curEquipMaterial: 0
+  - CostumeName: ArcherSuperiorRightRing
+    CostumeType: 14
+    CostumeSetType: 2
+    Mesh:
+    - {fileID: 4300000, guid: 551d45ff2544aa64c8a1710912e7f14f, type: 2}
+    Material:
+    - {fileID: 2100000, guid: 37c2bae61197fbc43a000532109b7196, type: 2}
+    costumeEffect: []
+    curEquipMaterial: 0
+  PetCostumes: []
+  HatCostumes: []
+  WingCostumes:
+  - CostumeName: ArcherNormalWing
+    CostumeType: 2
+    CostumeSetType: 1
+    Mesh:
+    - {fileID: 4300000, guid: 90a8946c5585c584f9bd3d3445a55fea, type: 2}
+    Material:
+    - {fileID: 2100000, guid: 09f5d6c67b4ef1b4086ffec8819629f9, type: 2}
+    costumeEffect: []
+    curEquipMaterial: -1
+  MaskCostumes:
+  - CostumeName: ArcherRareMask
+    CostumeType: 4
+    CostumeSetType: 2
+    Mesh:
+    - {fileID: 4300000, guid: 7de91a8d67907544ab0258ab70a2d89e, type: 2}
+    Material:
+    - {fileID: 2100000, guid: 09f5d6c67b4ef1b4086ffec8819629f9, type: 2}
+    costumeEffect: []
+    curEquipMaterial: 0
+  HairCostumes:
+  - CostumeName: ArcherNormalHair
+    CostumeType: 17
+    CostumeSetType: 0
+    Mesh:
+    - {fileID: 4300000, guid: 7f0cbb31a634bbe478c43abea2a6e7a1, type: 2}
+    - {fileID: 4300000, guid: 81c191f57ee0c7b45a3d8a1711903a4d, type: 2}
+    - {fileID: 4300000, guid: 67d2e293f5aa39a408d763625382f1ae, type: 2}
+    - {fileID: 4300000, guid: 5b16ae95a7ab1224f8abc01f13be9652, type: 2}
+    Material: []
+    costumeEffect: []
+    curEquipMaterial: 0

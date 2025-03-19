@@ -1,0 +1,242 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40b35c59047925345993f4d9d41e9112, type: 3}
+  m_Name: Guardian_CostumeSO
+  m_EditorClassIdentifier: 
+  WeaponCostumes:
+  - CostumeName: GuardianNormalWeapon
+    CostumeType: 9
+    CostumeSetType: 1
+    Mesh:
+    - {fileID: 4300000, guid: 29441dc98ba5a114aab4d6360e181e1c, type: 2}
+    Material:
+    - {fileID: 2100000, guid: a754bdb58d74cee41b02730fbf536ad0, type: 2}
+    costumeEffect: []
+    curEquipMaterial: 0
+  - CostumeName: GuardianSuperiorWeapon
+    CostumeType: 9
+    CostumeSetType: 2
+    Mesh:
+    - {fileID: 4300000, guid: 88b303aaedd9e1340ab3f53019581859, type: 2}
+    Material:
+    - {fileID: 2100000, guid: a754bdb58d74cee41b02730fbf536ad0, type: 2}
+    costumeEffect: []
+    curEquipMaterial: -1
+  - CostumeName: GuardianHammer
+    CostumeType: 9
+    CostumeSetType: 0
+    Mesh:
+    - {fileID: 3678972269256524989, guid: 189f62984fc43c94bb1b922438ad53bc, type: 3}
+    Material:
+    - {fileID: 2100000, guid: d4c93b025eb59914581ecc89e26e6959, type: 2}
+    costumeEffect: []
+    curEquipMaterial: 0
+  BackCostumes: []
+  CloakCostumes:
+  - CostumeName: GuardianNormalCloak
+    CostumeType: 5
+    CostumeSetType: 1
+    Mesh:
+    - {fileID: 4300000, guid: 54f6958a95879034d8ce1cf21a3bce72, type: 2}
+    Material:
+    - {fileID: 2100000, guid: 37c2bae61197fbc43a000532109b7196, type: 2}
+    costumeEffect: []
+    curEquipMaterial: 0
+  - CostumeName: GuardianSuperiorCloak
+    CostumeType: 5
+    CostumeSetType: 2
+    Mesh:
+    - {fileID: 4300000, guid: 79e100c5ba3afc84e9da54379ccbbf2e, type: 2}
+    Material:
+    - {fileID: 2100000, guid: 37c2bae61197fbc43a000532109b7196, type: 2}
+    costumeEffect: []
+    curEquipMaterial: 0
+  ClothCostumes:
+  - CostumeName: GuardianNormalClothes
+    CostumeType: 10
+    CostumeSetType: 1
+    Mesh:
+    - {fileID: 4300000, guid: 0b9398a0adae4d640a5bf4589185c0a9, type: 2}
+    - {fileID: 4300000, guid: 8f8575493f9cb124ea234f980c0b1d88, type: 2}
+    - {fileID: 4300000, guid: 550ca1cdc4c54564cbe09766bc9c811c, type: 2}
+    - {fileID: 4300000, guid: f18a3e40a29d8c14ca5834dc34960f50, type: 2}
+    - {fileID: 4300000, guid: bad8c6307834db44aa5b3a8daf2bd2c1, type: 2}
+    Material:
+    - {fileID: 2100000, guid: 9655299388693c8488dd81b8b6b9dfc1, type: 2}
+    costumeEffect: []
+    curEquipMaterial: -1
+  - CostumeName: GuardianSuperiorClothes
+    CostumeType: 10
+    CostumeSetType: 2
+    Mesh:
+    - {fileID: 4300000, guid: 651c44af89cec7b439de22a33b333d00, type: 2}
+    - {fileID: 4300000, guid: a7fae7016f684884684050f2119f25a5, type: 2}
+    - {fileID: 4300000, guid: 0c0529fa71f100640b9da7e026393b22, type: 2}
+    - {fileID: 4300000, guid: fb20c97d677c5ec4cb22a264bf88d591, type: 2}
+    - {fileID: 4300000, guid: 07c80321a4d800443a84144f522cc18d, type: 2}
+    Material:
+    - {fileID: 2100000, guid: 9655299388693c8488dd81b8b6b9dfc1, type: 2}
+    costumeEffect: []
+    curEquipMaterial: -1
+  GlovesCostumes:
+  - CostumeName: GuardianNormalGloves
+    CostumeType: 15
+    CostumeSetType: 1
+    Mesh:
+    - {fileID: 4300000, guid: a8aadc04c009c8949bdcb300ae79de88, type: 2}
+    Material:
+    - {fileID: 2100000, guid: 9655299388693c8488dd81b8b6b9dfc1, type: 2}
+    costumeEffect: []
+    curEquipMaterial: -1
+  - CostumeName: GuardianSuperiorGloves
+    CostumeType: 15
+    CostumeSetType: 2
+    Mesh:
+    - {fileID: 4300000, guid: eade09a0435e8ea4eaf68bbf17f1abe4, type: 2}
+    Material:
+    - {fileID: 2100000, guid: 9655299388693c8488dd81b8b6b9dfc1, type: 2}
+    costumeEffect: []
+    curEquipMaterial: -1
+  ShoesCostumes:
+  - CostumeName: GuardianNormalShoes
+    CostumeType: 16
+    CostumeSetType: 1
+    Mesh:
+    - {fileID: 4300000, guid: 07aeae9b4152cbb428e02581a19da6f6, type: 2}
+    Material:
+    - {fileID: 2100000, guid: 9655299388693c8488dd81b8b6b9dfc1, type: 2}
+    costumeEffect: []
+    curEquipMaterial: -1
+  - CostumeName: GuardianSuperiorShoes
+    CostumeType: 16
+    CostumeSetType: 2
+    Mesh:
+    - {fileID: 4300000, guid: 0996d4faa25629f4bb17e5907a430a51, type: 2}
+    Material:
+    - {fileID: 2100000, guid: 9655299388693c8488dd81b8b6b9dfc1, type: 2}
+    costumeEffect: []
+    curEquipMaterial: -1
+  NecklaceCostumes: []
+  EaringsCostumes: []
+  LeftBraceletCostumes:
+  - CostumeName: GuardianNormalLeftBracelet
+    CostumeType: 11
+    CostumeSetType: 1
+    Mesh:
+    - {fileID: 4300000, guid: 4ac0b34ce5b7a6841a228164f3a62b16, type: 2}
+    Material: []
+    costumeEffect: []
+    curEquipMaterial: -1
+  - CostumeName: GuardianSuperiorLeftBracelet
+    CostumeType: 11
+    CostumeSetType: 2
+    Mesh:
+    - {fileID: 4300000, guid: 42ff6a7b7bc9a95469777f2af14c563e, type: 2}
+    Material: []
+    costumeEffect: []
+    curEquipMaterial: -1
+  RightBraceletCostumes:
+  - CostumeName: GuardianNormalRightBracelet
+    CostumeType: 12
+    CostumeSetType: 1
+    Mesh:
+    - {fileID: 4300000, guid: 8e6757a2fa84a984fae75ae0c5af459b, type: 2}
+    Material: []
+    costumeEffect: []
+    curEquipMaterial: -1
+  - CostumeName: GuardianSuperiorRightBracelet
+    CostumeType: 12
+    CostumeSetType: 2
+    Mesh:
+    - {fileID: 4300000, guid: 16cd17b60449c8c429ea0ce03856a21b, type: 2}
+    Material: []
+    costumeEffect: []
+    curEquipMaterial: -1
+  LeftRingCostumes:
+  - CostumeName: GuardianNormalLeftRing
+    CostumeType: 13
+    CostumeSetType: 1
+    Mesh:
+    - {fileID: 4300000, guid: e89cb315dc2513146b1107b0f0ad4b48, type: 2}
+    Material:
+    - {fileID: 2100000, guid: 9655299388693c8488dd81b8b6b9dfc1, type: 2}
+    costumeEffect: []
+    curEquipMaterial: -1
+  - CostumeName: GuardianSuperiorLeftRing
+    CostumeType: 11
+    CostumeSetType: 2
+    Mesh:
+    - {fileID: 4300000, guid: bfe721cdeb4d4884bacc2e50d026eb02, type: 2}
+    Material:
+    - {fileID: 2100000, guid: 9655299388693c8488dd81b8b6b9dfc1, type: 2}
+    costumeEffect: []
+    curEquipMaterial: -1
+  RightRingCostumes:
+  - CostumeName: GuardianNormalRightRing
+    CostumeType: 14
+    CostumeSetType: 1
+    Mesh:
+    - {fileID: 4300000, guid: f9d0b1ef225f1ab4dbfffc81d287221a, type: 2}
+    Material:
+    - {fileID: 2100000, guid: 9655299388693c8488dd81b8b6b9dfc1, type: 2}
+    costumeEffect: []
+    curEquipMaterial: -1
+  - CostumeName: GuardianSuperiorRightRing
+    CostumeType: 14
+    CostumeSetType: 2
+    Mesh:
+    - {fileID: 4300000, guid: b6c8edd1e22341c4f8774762b5e8926f, type: 2}
+    Material:
+    - {fileID: 2100000, guid: 9655299388693c8488dd81b8b6b9dfc1, type: 2}
+    costumeEffect: []
+    curEquipMaterial: -1
+  PetCostumes: []
+  HatCostumes:
+  - CostumeName: GuardianNormalCape
+    CostumeType: 3
+    CostumeSetType: 1
+    Mesh:
+    - {fileID: 4300000, guid: 54f6958a95879034d8ce1cf21a3bce72, type: 2}
+    Material:
+    - {fileID: 2100000, guid: 9655299388693c8488dd81b8b6b9dfc1, type: 2}
+    costumeEffect: []
+    curEquipMaterial: -1
+  - CostumeName: GuardianSuperiorCape
+    CostumeType: 3
+    CostumeSetType: 2
+    Mesh:
+    - {fileID: 4300000, guid: 79e100c5ba3afc84e9da54379ccbbf2e, type: 2}
+    Material:
+    - {fileID: 2100000, guid: 9655299388693c8488dd81b8b6b9dfc1, type: 2}
+    costumeEffect: []
+    curEquipMaterial: -1
+  WingCostumes:
+  - CostumeName: GuardianNormalWing
+    CostumeType: 2
+    CostumeSetType: 1
+    Mesh:
+    - {fileID: 4300000, guid: 1cd8911bf84b61a489e032a044f67840, type: 2}
+    Material:
+    - {fileID: 2100000, guid: a754bdb58d74cee41b02730fbf536ad0, type: 2}
+    costumeEffect: []
+    curEquipMaterial: -1
+  MaskCostumes:
+  - CostumeName: GuardianRareMask
+    CostumeType: 4
+    CostumeSetType: 2
+    Mesh:
+    - {fileID: 4300000, guid: f6739dfb80b790a499760950fbfd8cfd, type: 2}
+    Material:
+    - {fileID: 2100000, guid: a754bdb58d74cee41b02730fbf536ad0, type: 2}
+    costumeEffect: []
+    curEquipMaterial: -1
+  HairCostumes: []
