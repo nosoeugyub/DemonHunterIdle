@@ -1,0 +1,71 @@
+Key,MaxValue,DisplayUnit,DisplayDigitCount,DisplayMultiplier,KR,EN,데이터 형식
+AttackSpeed,20,(s),0.00,,기본공격 속도,Basic attack speed,float
+AttackSpeedPercent,-1,%,0.0,,기본공격 속도 증가,Increased basic attack speed,float
+MoveSpeed,-1,,0,100,이동속도,moving speed,float
+MoveSpeedPercent,-1,%,0.0,,이동속도 증가,Increased movement speed,float
+GroupMoveSpeed,-1,,0,100,대형 이동속도,Large movement speed,float
+GroupMoveSpeedPercent,-1,%,0.0,,대형 이동속도 증가,Large movement speed increased,float
+AttackRange,-1,,0,100,기본공격 사정거리,Basic attack range,float
+PhysicalPower,-1,,0,,물리공격,physical attack,float
+PhysicalPowerPercent,-1,%,0.0,,물리공격 증가,Increased physical attack,float
+MagicPower,-1,,0,,마법공격,magic attack,float
+MagicPowerPercent,-1,%,0.0,,마법공격 증가,Increased magic attack,float
+PhysicalTrueDamage,-1,,0,,물리관통공격,Physical piercing attack,float
+PhysicalTrueDamagePercent,-1,%,0.0,,물리관통공격 증가,Increased physical piercing attack,float
+MagicTrueDamage,-1,,0,,마법관통공격,Magic piercing attack,float
+MagicTrueDamagePercent,-1,%,0.0,,마법관통공격 증가,Increased magic piercing attack,float
+CriChance,50,%,0.00,,치명확률,Fatal probability,float
+CriDamage,-1,%,0.0,,치명피해,fatal damage,float
+CoupChance,50,%,0.00,,일격확률,Strike probability,float
+CoupDamage,-1,%,0.0,,일격피해,One hit damage,float
+PhysicalPowerDefense,-1,,0,,물리공격 방어,Physical attack defense,float
+PhysicalPowerDefensePercent,-1,%,0.0,,물리공격 방어 증가,Increased physical attack defense,float
+MagicPowerDefense,-1,,0,,마법공격 방어,Magic attack defense,float
+MagicPowerDefensePercent,-1,%,0.0,,마법공격 방어 증가,Increased magic attack defense,float
+PhysicalDamageReduction,-1,%,0.0,,물리피해 감소,Physical damage reduction,float
+MagicDamageReduction,-1,%,0.0,,마법피해  감소,Magic damage reduction,float
+CCResist,100,%,0.0,,상태이상회복률,Abnormal status recovery rate,float
+DodgeChance,50,%,0.0,,회피율,Evasion rate,float
+HP,-1,,0,,체력,stamina,float
+HPPercent,-1,%,0.0,,체력 증가,Increased stamina,float
+MP,-1,,0,,마나,mana,float
+MPPercent,-1,%,0.0,,마나 증가,Increased Mana,float
+HPDrain,500,,,,체력흡수,Absorb stamina,float
+MPDrain,250,,,,마나흡수,Mana Absorption,float
+ExpBuff,-1,%,0.0,,경험치획득 버프,Experience gain buff,float
+GoldBuff,-1,%,0.0,,골드획득 버프,Gold acquisition buff,float
+ItemBuff,-1,%,0.0,,아이템획득 버프,Item acquisition buff,float
+AddDamageToNormalMob,-1,%,0.0,,일반몹 기본공격 추가피해,Additional damage to normal mob basic attacks,float
+AddDamageToBossMob,-1,%,0.0,,보스몹 기본공격 추가피해,Boss mob basic attack additional damage,float
+ArrowCount,-1,,0,,궁수 화살개수,Archer Number of Arrows,int
+ArrowRange,-1,,0,100,궁수 화살 총 이동거리,Archer arrow total movement distance,float
+InstantKillBossOnBasicAttack,-1,%,0.0,,기본공격시 보스 즉사,Instant death of boss with basic attack,float
+ReflectRange,-1,%,0.0,,원거리 공격 반사,Ranged attack reflection,float
+AddDamageArrowRain,-1,%,0.0,,화살비 추가데미지,Additional arrow rain damage,float
+ElectricshockNumber,-1,,0,,감전개수 추가,Added number of electric shocks,float
+AddDamageChainLightning,-1,%,0.0,,연쇄전기 추가데미지,Additional chain electricity damage,float
+AddDamageHammerSummon,-1,%,0.0,,망치 추가데미지,Additional hammer damage,float
+AddDamageMagneticWaves,-1,%,0.0,,자기장파 추가데미지,Additional damage from magnetic fields,float
+AddDamageStrongShot,-1,%,0.0,,정조준일격 추가데미지,Aimed strike additional damage,float
+AddDamageRapidShot,-1,%,0.0,,래피드샷 추가데미지,Rapid Shot Additional Damage,float
+AddDamageDemonicBlow,-1,%,0.0,,악귀의일격 추가데미지,Demon's Strike Additional Damage,float
+AddDamageSpikeTrap,-1,%,0.0,,가시덫 추가데미지,Thorn trap additional damage,float
+AddDamageVenomousSting,-1,%,0.0,,맹독침 추가데미지,Venomous stinger additional damage,float
+AddDamageElectric,-1,%,0.0,,벼락치기 추가데미지,Thunderbolt additional damage,float
+AddDamageWhirlwindRush,-1,%,0.0,,회전돌격 추가데미지,,float
+AddDamageDokkaebiFire,-1,%,0.0,,도깨비불 추가데미지,Ghost fire extra damage,float
+AddDamageMeteor,-1,%,0.0,,메테오 추가데미지,Meteor additional damage,float
+AddDamageElectricshock,-1,%,0.0,,감전 추가데미지,Additional electric shock damage,float
+BeastTransformationStackCountReduce,-1,,0,,야수화 필요스택 감소,Reduced stacks required for Beast Boots,int
+ContinuousHitStackCountReduce,-1,,0,,연타 필요스택 감소,Reduced stack required for repeated hits,int
+DokkaebiFireRotationSpeed,-1,,0.0,,도깨비불 회전 속도 증가,Increased will-o'-the-wisp rotation speed,float
+ElectricCastingChance,-1,,0.0,,벼락치기 발동 확률 증가,Increases the chance of thunderbolt activation,int
+SplitPiercingNumber,-1,,0,,분열관통 분열 수 증가,Increased number of divisions through division,int
+SpikeTrapNumber,-1,,0,,가시덫 투사체 발사 개수 증가,Increased number of thorn trap projectiles fired,int
+SpikeTrapDamageRadius,-1,,0.0,,가시덫 장판 범위 증가,Increased thorn trap range,float
+VenomousStingNumber,-1,,0,,맹독침 투사체 발사 개수 증가,Increased number of poisonous needle projectiles fired,int
+VenomousStingDamageRadius,-1,,0.0,,맹독침 폭발 범위 증가,Increased poison needle explosion range,float
+WhirlwindRushSpeedPercent,-1,%,0,,회전돌격 공격 속도 증가,Increased spin attack speed,float
+ChainLightningNumber,-1,,0,,체인라이트닝 연쇄되는 개수 증가,Increased number of Chain Lightning chains,float
+LastLeafAblityNumber,-1,%,0,,발동되는 체력 %증가,% increase in activated health,float
+MagneticWavesRangeNumber,-1,,0.0,,자기장파 범위 증가,Increased magnetic field range,float

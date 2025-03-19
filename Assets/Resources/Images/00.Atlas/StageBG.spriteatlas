@@ -1,0 +1,140 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: StageBG
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 1
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 50
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 49
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: Standalone
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 12
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 16384
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: Server
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 12
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 7b93e118e730fb145a6f1d6f03a17149, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - ad286470bfd391645aeb4e5813cff583: 21300000
+    - bcd4c392fa2c6ef40826522fcec9391b: 21300000
+    - 4b34696331d51954c98300c54e34bc5f: 21300000
+    - b7652334e4d7d3247905cfdd1bd90245: 21300000
+    - 8535b984ce180884c8132f2baa262728: 21300000
+    - 49042336ba998c940aa9f2bf45b2be5d: 21300000
+    - 399518189ac2924448174e9d6453caed: 21300000
+    - 2acf781b5488d6e469a4aa46a233ce42: 21300000
+    - 2b67cddbf6cabd24c8952433f455d328: 21300000
+    - 5a572d8e0d9f20143925400a95b438fb: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: ad286470bfd391645aeb4e5813cff583, type: 3}
+  - {fileID: 21300000, guid: bcd4c392fa2c6ef40826522fcec9391b, type: 3}
+  - {fileID: 21300000, guid: 4b34696331d51954c98300c54e34bc5f, type: 3}
+  - {fileID: 21300000, guid: b7652334e4d7d3247905cfdd1bd90245, type: 3}
+  - {fileID: 21300000, guid: 8535b984ce180884c8132f2baa262728, type: 3}
+  - {fileID: 21300000, guid: 49042336ba998c940aa9f2bf45b2be5d, type: 3}
+  - {fileID: 21300000, guid: 399518189ac2924448174e9d6453caed, type: 3}
+  - {fileID: 21300000, guid: 2acf781b5488d6e469a4aa46a233ce42, type: 3}
+  - {fileID: 21300000, guid: 2b67cddbf6cabd24c8952433f455d328, type: 3}
+  - {fileID: 21300000, guid: 5a572d8e0d9f20143925400a95b438fb, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - StageMap_1_02
+  - StageMap_1_01
+  - StageMap_4_01
+  - StageMap_2_01
+  - StageMap_3_01
+  - 1
+  - StageMap_03
+  - StageMap_5_01
+  - StageMap_02
+  - BorderGradient
+  m_RenderDataMap: {}
+  m_Tag: StageBG
+  m_IsVariant: 0

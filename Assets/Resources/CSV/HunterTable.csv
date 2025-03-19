@@ -1,0 +1,4 @@
+Class,SubClass,AttackType,AttackDamageType,AttackSpeed,AttackRange,MoveSpeed,GroupMoveSpeed,PhysicalPower,MagicPower,PhysicalPowerDefense,HP,MP,ArrowCount,ArrowRange
+Hunter,Archer,Range,Physical,2,5.5,7,7,100,100,5,20000,5000,3,6
+Hunter,Guardian,Melee,Physical,2,2,7,7,300,100,10,50000,5000,0,0
+Hunter,Mage,Spell,Magic,2,5.5,7,7,0,100,8,800,1200,0,0

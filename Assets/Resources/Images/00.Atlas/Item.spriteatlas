@@ -1,0 +1,370 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Item
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 49
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 512
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 49
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: Standalone
+      m_MaxTextureSize: 512
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 12
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: b357de66dd55d544b82afac5de316b65, type: 3}
+    - {fileID: 102900000, guid: a025f5855b8b3f642a491699d8c34bed, type: 3}
+    - {fileID: 102900000, guid: a4199d05ed54c2547b5a7613cbf199f8, type: 3}
+    - {fileID: 102900000, guid: 8f8a88ee92a744543aa84109542ac2ef, type: 3}
+    - {fileID: 102900000, guid: 06ff4e918845e9644b62cbdf9ed930cd, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 3f7a8740d3d629f46a4b3b94a30f3e9d: 21300000
+    - 90df8fa0b744c6e4d8bd354688bc443c: 21300000
+    - 5c51c2e0882825f49bb9922d646a37c3: 21300000
+    - 3ad203e0d40d3ea419c6edf87682eabf: 21300000
+    - 8d328501c5b2a6f498738202ef17aa0d: 21300000
+    - 08b36631e158d524daa41d6642f2eada: 21300000
+    - 94309b31d952f824ba0d26178c285f92: 21300000
+    - f4fa3e51eec3c2549a9a163e456b926a: 21300000
+    - e68c0661ba26df14281af331bd15b264: 21300000
+    - 4ae71d712c14e3d438e66cc96e9f0747: 21300000
+    - 6fad278171987f7469f911bc73b46ded: 21300000
+    - 93c70091e48e2c146b2f0aba9a465413: 21300000
+    - 2f2378d15487b1a499e44b13779a0927: 21300000
+    - 8f485ae179bd40340968d4528dc57143: 21300000
+    - 86ba12f1e33d32741b28de57d31249bd: 21300000
+    - 3be81ef133810254aaccabefe1780a06: 21300000
+    - a4ba5e12cf67a464c992944139f891ef: 21300000
+    - bb6e69223f977ad458ac811f6524ccf3: 21300000
+    - 069f8c226b55e6f41a99146da16cc720: 21300000
+    - 91523932fc71f0346b2a13c8d239872d: 21300000
+    - 30dd3a72c537a83489169a30f8ad8478: 21300000
+    - 17c478c26e9c62a4daf15eae1b23d24e: 21300000
+    - 358b2b139e121b24eaee8e7a6646220e: 21300000
+    - 07e4ba23fa696244cafd62f344ea9f2e: 21300000
+    - 2370aa631f55b57478c360a3e092aa3e: 21300000
+    - ebee5b7358865a44596b347138206416: 21300000
+    - b48c11e3fbf490747ab974c427b9fc49: 21300000
+    - 5a83366448b97b54fb2579f377bbc64e: 21300000
+    - 944f4f743749be6488bceefd5a923a34: 21300000
+    - bcf9a694994acf547a1411eff2057805: 21300000
+    - 337f07b446e58d34b8212e7b8fe14663: 21300000
+    - cb717de47aa447c499e571bf6cebe1d5: 21300000
+    - 4d607525054d4814ca4e3e4d3c04d76e: 21300000
+    - 41aa84450eb821e4d91da1da5b8ba950: 21300000
+    - 7378cb655479d6843af0c72ba15de5cb: 21300000
+    - 014425859c2f5474d9ffdc0ad714f541: 21300000
+    - 2b9b988544867ed438083673c043f213: 21300000
+    - 1de7fd8525957ca439cd87fd9c5d4047: 21300000
+    - efa814a517e8f9f47bf44d4e74bc9de9: 21300000
+    - e6d31ba60e009a74a8d34d9725035b24: 21300000
+    - d43b97b66f94347469916f018ffb20e9: 21300000
+    - d50d5b37400fb0c4687658d8d2ea300d: 21300000
+    - 78cbbc47d25ff0b4da5c083e35d6c508: 21300000
+    - 43f76e6762bae9a44bce547afbd8e7c8: 21300000
+    - 66cac3b70a62bd0458c5c87afb831451: 21300000
+    - ed3587e77cea9664e8e5adb0d4c7c24f: 21300000
+    - 7c531ef7480a0d749a43de61d7494d96: 21300000
+    - f790d4787019a5743b113f35064d4543: 21300000
+    - 377c3998a1c09884c8f8dca75ce54ef3: 21300000
+    - f11aced8c928a2344b22575c357591fd: 21300000
+    - debe12090beb76d4793437b17ffe294f: 21300000
+    - f1781b19728244c4194aeb6b24ab6636: 21300000
+    - 877cc82979d14854c96bff4a0d46f97b: 21300000
+    - c0eeeb79cf4f2c94e8e202f87783fd08: 21300000
+    - 765647d9a44ab7c4d8ce8c28c90f4392: 21300000
+    - da814df9f2f202945a8b8b28e7e07b12: 21300000
+    - f761366a09425fc4589975e95b035360: 21300000
+    - 7c1cd48a51cb1ae468beb897a2b92fcd: 21300000
+    - ab776c0b3a66a5e43b9eef481d8e8a5c: 21300000
+    - ef3c251ba5dd12948bcd8d955c4fc796: 21300000
+    - 8ae4163be089aa74383e846ab80b2c91: 21300000
+    - 1ea7a94bb6b34ab4ca115219212e130f: 21300000
+    - 49aeb37bd3865f8488012b5b6bae572c: 21300000
+    - 0a2b267bdb9c4c44994556b2b064d5a3: 21300000
+    - cd02ba7b0fd04c54d987ce3c0cf40fa1: 21300000
+    - 17305edb787e7e34da831e465e31d2e9: 21300000
+    - 5fbc46ebde4a49d449e3f3b1e22db650: 21300000
+    - bb6f03fba96935547b79854b67d9e0c6: 21300000
+    - 01926afb71c158f4599b4c5776b9a84f: 21300000
+    - 49f52f2c5eeb6534bafcd60f99faf6d0: 21300000
+    - e0a0125cb1c02ab4a97e7399559c0284: 21300000
+    - 44d0bd6c2568f70499c56ff15ebd9207: 21300000
+    - c89feeac247d84d48a0e0be06fab9e27: 21300000
+    - 4d8687dc1b73ccf45bd9de280c43e3d9: 21300000
+    - 08d36edc205eb7448b00650ec0ecaf88: 21300000
+    - d393090d29a604c44a7a9923c6cef10c: 21300000
+    - 90fbb35d3c9567244bfbf5e4e891639d: 21300000
+    - d620d96d406560b428c7bd96c1489de8: 21300000
+    - 206ecb6d46ba4d446a2aadee1ff67bac: 21300000
+    - 64d6948d3c7f6c54db87237de7e820f8: 21300000
+    - 3191eb9d45043be4c9bcb4efa4e44874: 21300000
+    - 93115cad36ed6364dbfd049f2342e398: 21300000
+    - 6184f6cd156b2134dace6eabe7c8ba04: 21300000
+    - fd3b4eed99b0bdd428d9b8f81e6d3f5a: 21300000
+    - 557ce04e595d4e74aa404225dcd97f1d: 21300000
+    - ef45274e850f2e24e884b1024ff4f12c: 21300000
+    - 75a472ce269722840915316d6c03d4c8: 21300000
+    - 5549fbcef04beda4894018bd93675d90: 21300000
+    - d92c854f65678354d8ba530fbbbcb423: 21300000
+    - c2df9b8f696435c4f908a61c88a472c1: 21300000
+    - 1900759f8d791b640abeca8ee623c747: 21300000
+    - 4e2dce9f5d6116f409d0532e92fed19a: 21300000
+    - 82271caf469b76243a3e214e500e5649: 21300000
+    - 4d388fff314bb5c4cb9a91c55acacfe0: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 3f7a8740d3d629f46a4b3b94a30f3e9d, type: 3}
+  - {fileID: 21300000, guid: 90df8fa0b744c6e4d8bd354688bc443c, type: 3}
+  - {fileID: 21300000, guid: 5c51c2e0882825f49bb9922d646a37c3, type: 3}
+  - {fileID: 21300000, guid: 3ad203e0d40d3ea419c6edf87682eabf, type: 3}
+  - {fileID: 21300000, guid: 8d328501c5b2a6f498738202ef17aa0d, type: 3}
+  - {fileID: 21300000, guid: 08b36631e158d524daa41d6642f2eada, type: 3}
+  - {fileID: 21300000, guid: 94309b31d952f824ba0d26178c285f92, type: 3}
+  - {fileID: 21300000, guid: f4fa3e51eec3c2549a9a163e456b926a, type: 3}
+  - {fileID: 21300000, guid: e68c0661ba26df14281af331bd15b264, type: 3}
+  - {fileID: 21300000, guid: 4ae71d712c14e3d438e66cc96e9f0747, type: 3}
+  - {fileID: 21300000, guid: 6fad278171987f7469f911bc73b46ded, type: 3}
+  - {fileID: 21300000, guid: 93c70091e48e2c146b2f0aba9a465413, type: 3}
+  - {fileID: 21300000, guid: 2f2378d15487b1a499e44b13779a0927, type: 3}
+  - {fileID: 21300000, guid: 8f485ae179bd40340968d4528dc57143, type: 3}
+  - {fileID: 21300000, guid: 86ba12f1e33d32741b28de57d31249bd, type: 3}
+  - {fileID: 21300000, guid: 3be81ef133810254aaccabefe1780a06, type: 3}
+  - {fileID: 21300000, guid: a4ba5e12cf67a464c992944139f891ef, type: 3}
+  - {fileID: 21300000, guid: bb6e69223f977ad458ac811f6524ccf3, type: 3}
+  - {fileID: 21300000, guid: 069f8c226b55e6f41a99146da16cc720, type: 3}
+  - {fileID: 21300000, guid: 91523932fc71f0346b2a13c8d239872d, type: 3}
+  - {fileID: 21300000, guid: 30dd3a72c537a83489169a30f8ad8478, type: 3}
+  - {fileID: 21300000, guid: 17c478c26e9c62a4daf15eae1b23d24e, type: 3}
+  - {fileID: 21300000, guid: 358b2b139e121b24eaee8e7a6646220e, type: 3}
+  - {fileID: 21300000, guid: 07e4ba23fa696244cafd62f344ea9f2e, type: 3}
+  - {fileID: 21300000, guid: 2370aa631f55b57478c360a3e092aa3e, type: 3}
+  - {fileID: 21300000, guid: ebee5b7358865a44596b347138206416, type: 3}
+  - {fileID: 21300000, guid: b48c11e3fbf490747ab974c427b9fc49, type: 3}
+  - {fileID: 21300000, guid: 5a83366448b97b54fb2579f377bbc64e, type: 3}
+  - {fileID: 21300000, guid: 944f4f743749be6488bceefd5a923a34, type: 3}
+  - {fileID: 21300000, guid: bcf9a694994acf547a1411eff2057805, type: 3}
+  - {fileID: 21300000, guid: 337f07b446e58d34b8212e7b8fe14663, type: 3}
+  - {fileID: 21300000, guid: cb717de47aa447c499e571bf6cebe1d5, type: 3}
+  - {fileID: 21300000, guid: 4d607525054d4814ca4e3e4d3c04d76e, type: 3}
+  - {fileID: 21300000, guid: 41aa84450eb821e4d91da1da5b8ba950, type: 3}
+  - {fileID: 21300000, guid: 7378cb655479d6843af0c72ba15de5cb, type: 3}
+  - {fileID: 21300000, guid: 014425859c2f5474d9ffdc0ad714f541, type: 3}
+  - {fileID: 21300000, guid: 2b9b988544867ed438083673c043f213, type: 3}
+  - {fileID: 21300000, guid: 1de7fd8525957ca439cd87fd9c5d4047, type: 3}
+  - {fileID: 21300000, guid: efa814a517e8f9f47bf44d4e74bc9de9, type: 3}
+  - {fileID: 21300000, guid: e6d31ba60e009a74a8d34d9725035b24, type: 3}
+  - {fileID: 21300000, guid: d43b97b66f94347469916f018ffb20e9, type: 3}
+  - {fileID: 21300000, guid: d50d5b37400fb0c4687658d8d2ea300d, type: 3}
+  - {fileID: 21300000, guid: 78cbbc47d25ff0b4da5c083e35d6c508, type: 3}
+  - {fileID: 21300000, guid: 43f76e6762bae9a44bce547afbd8e7c8, type: 3}
+  - {fileID: 21300000, guid: 66cac3b70a62bd0458c5c87afb831451, type: 3}
+  - {fileID: 21300000, guid: ed3587e77cea9664e8e5adb0d4c7c24f, type: 3}
+  - {fileID: 21300000, guid: 7c531ef7480a0d749a43de61d7494d96, type: 3}
+  - {fileID: 21300000, guid: f790d4787019a5743b113f35064d4543, type: 3}
+  - {fileID: 21300000, guid: 377c3998a1c09884c8f8dca75ce54ef3, type: 3}
+  - {fileID: 21300000, guid: f11aced8c928a2344b22575c357591fd, type: 3}
+  - {fileID: 21300000, guid: debe12090beb76d4793437b17ffe294f, type: 3}
+  - {fileID: 21300000, guid: f1781b19728244c4194aeb6b24ab6636, type: 3}
+  - {fileID: 21300000, guid: 877cc82979d14854c96bff4a0d46f97b, type: 3}
+  - {fileID: 21300000, guid: c0eeeb79cf4f2c94e8e202f87783fd08, type: 3}
+  - {fileID: 21300000, guid: 765647d9a44ab7c4d8ce8c28c90f4392, type: 3}
+  - {fileID: 21300000, guid: da814df9f2f202945a8b8b28e7e07b12, type: 3}
+  - {fileID: 21300000, guid: f761366a09425fc4589975e95b035360, type: 3}
+  - {fileID: 21300000, guid: 7c1cd48a51cb1ae468beb897a2b92fcd, type: 3}
+  - {fileID: 21300000, guid: ab776c0b3a66a5e43b9eef481d8e8a5c, type: 3}
+  - {fileID: 21300000, guid: ef3c251ba5dd12948bcd8d955c4fc796, type: 3}
+  - {fileID: 21300000, guid: 8ae4163be089aa74383e846ab80b2c91, type: 3}
+  - {fileID: 21300000, guid: 1ea7a94bb6b34ab4ca115219212e130f, type: 3}
+  - {fileID: 21300000, guid: 49aeb37bd3865f8488012b5b6bae572c, type: 3}
+  - {fileID: 21300000, guid: 0a2b267bdb9c4c44994556b2b064d5a3, type: 3}
+  - {fileID: 21300000, guid: cd02ba7b0fd04c54d987ce3c0cf40fa1, type: 3}
+  - {fileID: 21300000, guid: 17305edb787e7e34da831e465e31d2e9, type: 3}
+  - {fileID: 21300000, guid: 5fbc46ebde4a49d449e3f3b1e22db650, type: 3}
+  - {fileID: 21300000, guid: bb6f03fba96935547b79854b67d9e0c6, type: 3}
+  - {fileID: 21300000, guid: 01926afb71c158f4599b4c5776b9a84f, type: 3}
+  - {fileID: 21300000, guid: 49f52f2c5eeb6534bafcd60f99faf6d0, type: 3}
+  - {fileID: 21300000, guid: e0a0125cb1c02ab4a97e7399559c0284, type: 3}
+  - {fileID: 21300000, guid: 44d0bd6c2568f70499c56ff15ebd9207, type: 3}
+  - {fileID: 21300000, guid: c89feeac247d84d48a0e0be06fab9e27, type: 3}
+  - {fileID: 21300000, guid: 4d8687dc1b73ccf45bd9de280c43e3d9, type: 3}
+  - {fileID: 21300000, guid: 08d36edc205eb7448b00650ec0ecaf88, type: 3}
+  - {fileID: 21300000, guid: d393090d29a604c44a7a9923c6cef10c, type: 3}
+  - {fileID: 21300000, guid: 90fbb35d3c9567244bfbf5e4e891639d, type: 3}
+  - {fileID: 21300000, guid: d620d96d406560b428c7bd96c1489de8, type: 3}
+  - {fileID: 21300000, guid: 206ecb6d46ba4d446a2aadee1ff67bac, type: 3}
+  - {fileID: 21300000, guid: 64d6948d3c7f6c54db87237de7e820f8, type: 3}
+  - {fileID: 21300000, guid: 3191eb9d45043be4c9bcb4efa4e44874, type: 3}
+  - {fileID: 21300000, guid: 93115cad36ed6364dbfd049f2342e398, type: 3}
+  - {fileID: 21300000, guid: 6184f6cd156b2134dace6eabe7c8ba04, type: 3}
+  - {fileID: 21300000, guid: fd3b4eed99b0bdd428d9b8f81e6d3f5a, type: 3}
+  - {fileID: 21300000, guid: 557ce04e595d4e74aa404225dcd97f1d, type: 3}
+  - {fileID: 21300000, guid: ef45274e850f2e24e884b1024ff4f12c, type: 3}
+  - {fileID: 21300000, guid: 75a472ce269722840915316d6c03d4c8, type: 3}
+  - {fileID: 21300000, guid: 5549fbcef04beda4894018bd93675d90, type: 3}
+  - {fileID: 21300000, guid: d92c854f65678354d8ba530fbbbcb423, type: 3}
+  - {fileID: 21300000, guid: c2df9b8f696435c4f908a61c88a472c1, type: 3}
+  - {fileID: 21300000, guid: 1900759f8d791b640abeca8ee623c747, type: 3}
+  - {fileID: 21300000, guid: 4e2dce9f5d6116f409d0532e92fed19a, type: 3}
+  - {fileID: 21300000, guid: 82271caf469b76243a3e214e500e5649, type: 3}
+  - {fileID: 21300000, guid: 4d388fff314bb5c4cb9a91c55acacfe0, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - ArcherSuperiorRightRing
+  - GuardianNormalBack
+  - MageNormalCloak
+  - GuardianNormalRightBracelet
+  - ArcherRareMask
+  - GuardianSuperiorHat
+  - Ancient
+  - GuardianNormalGloves
+  - GuardianNormalWeapon
+  - ArcherSuperiorLeftRing
+  - ArcherNormalRightBracelet
+  - MageNormalBack
+  - GuardianSuperiorGloves
+  - MageNormalHat
+  - GuardianSuperiorCloak
+  - MageNormalShoes
+  - GuardianSuperiorEarrings
+  - GuardianNormalHat
+  - DiaDummy3
+  - ArcherNormalGloves
+  - ArcherSuperiorBack
+  - GuardianSuperiorBack
+  - None
+  - GuardianNormalWing
+  - Dia
+  - GuardianRareMask
+  - Abyssal
+  - ArcherNormalCloak
+  - MageNormalRightRing
+  - ArcherNormalClothes
+  - ArcherNormalWing
+  - ArcherSuperiorNecklace
+  - Normal
+  - GuardianSuperiorRightRing
+  - GoldDummy2
+  - MageNormalLeftRing
+  - ArcherNormalLeftRing
+  - ArcherNormalShoes
+  - MageNormalWing
+  - ArcherSuperiorGloves
+  - GuardianNormalPet
+  - MageNormalLeftBracelet
+  - DiaDummy1
+  - GuardianSuperiorClothes
+  - MageNormalWeapon
+  - Superior
+  - ArcherNormalPet
+  - ArcherSuperiorClothes
+  - Unique
+  - MageNormalGloves
+  - Exp
+  - ArcherSuperiorCloak
+  - GuardianSuperiorWeapon
+  - MageNormalPet
+  - GuardianSuperiorNecklace
+  - GuardianNormalShoes
+  - MageRareMask
+  - GoldDummy1
+  - Slot
+  - GuardianSuperiorShoes
+  - ArcherNormalNecklace
+  - ArcherNormalWeapon
+  - ArcherNormalEarrings
+  - MageNormalRightBracelet
+  - DiaDummy4
+  - GuardianSuperiorLeftRing
+  - ArcherNormalRightRing
+  - ArcherNormalLeftBracelet
+  - GuardianNormalLeftBracelet
+  - GuardianNormalLeftRing
+  - GuardianSuperiorLeftBracelet
+  - DiaDummy2
+  - ArcherSuperiorWeapon
+  - GoldDummy3
+  - MageNormalEarrings
+  - GuardianNormalEarrings
+  - Epic
+  - ArcherNormalBack
+  - ArcherSuperiorLeftBracelet
+  - Gold
+  - GuardianNormalClothes
+  - ArcherSuperiorShoes
+  - Rare
+  - ArcherSuperiorEarrings
+  - MageNormalClothes
+  - MageNormalNecklace
+  - Hero
+  - ArcherNormalHat
+  - GuardianNormalNecklace
+  - ArcherSuperiorRightBracelet
+  - GoldDummy4
+  - GuardianNormalCloak
+  - GuardianSuperiorRightBracelet
+  - GuardianNormalRightRing
+  m_RenderDataMap: {}
+  m_Tag: Item
+  m_IsVariant: 0

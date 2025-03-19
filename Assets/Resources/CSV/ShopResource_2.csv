@@ -1,0 +1,4 @@
+Index,Ios,Aos,SpriteName,Type,Goods,Count,AddPercent,Price,TBC,상품 설명
+1,test_gold1,test_gold1,GoldDummy1,Resource,Gold,1000,20,9900_20_7500,990,골드1
+2,test_gold2,test_gold2,GoldDummy2,Resource,Gold,1500,20,9900_20_7500,750,골드2
+3,test_gold3,test_gold3,GoldDummy3,Resource,Gold,2000,,9900_0_9900,550,골드3

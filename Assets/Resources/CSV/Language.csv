@@ -1,0 +1,358 @@
+Key,KR,EN
+Archer,궁수,Archer
+Attainment,달성,attainment
+Attribute1,속성1,Attribute 1
+Attribute2,속성2,Attribute 2
+Attribute3,속성3,Attribute 3
+BattlePower,전투력,BattlePower
+Button_Agree,동의합니다,I agree
+Button_AllRecive,전체받기,Get all
+Button_AppleFed,Apple로 전환,Switch to Apple
+Button_Cafe,공식카페,Official cafe
+Button_Check,확인,check
+Button_Community,소통,communication
+Button_Content,내용,detail
+Button_Credit,만든이,Created by
+Button_English,English,English
+Button_Equip,장착,Equip
+Button_Exit,종료하기,Quit
+Button_Exit_No,돌아가기,Go back
+Button_Exit_Yes,종료하기,Quit
+Button_GoogleFed,Google로 전환,Switch to Google
+Button_Grade,평점강화,Strengthen your rating
+Button_Kakao,오픈카톡,Open KakaoTalk
+Button_Korea,한국어,korean
+Button_LanguageSetting,Language,Language
+Button_Logout,로그아웃,log out
+Button_Optimization,최적화,Optimization
+Button_Recive,받기,receive
+Button_Report,문의,inquiry
+Button_Retry,재시도,retry
+Button_Share,공유하기,Share
+Button_Shop_9900_0_9900,"9,900 원",
+Button_Shop_9900_20_7500,"<s> 9,900 원 </s>\n<color=#{0}>7,500 원",
+Button_Upgrade,강화,Upgrade
+Button_Withdrawal,탈퇴하기,Unsubscribe
+Buuton_Buy,구매,purchase
+Button_Close,닫기,Close
+Button_LevelLimit,레벨제한\n{0}레벨,Level limit\n{0}level
+ChangeHightOptions,기존보다 상위 장비레벨,Change_hightopiton
+ChatBroadcast_FirstKillBoss,{0}님이 <color=#{1}>스테이지레벨{2} 보스</color>를 처치하였습니다!,
+ChatBroadcast_Gacha,{0}님이 가챠로<color=#{1}>{2}</color>를 획득했습니다!,
+ChatError_ALREADY_JOIN_CHANNEL,이미 입장 한 채널 입니다. 오픈 채널은 같은 채널 그룹 내에서 중복 입장이 불가능 합니다.,This channel has already been entered. Open channels do not allow multiple entries within the same channel group.
+ChatError_ALREADY_LIMIT_REPORT_MESSAGE_DAYS,	오래된 채팅 메시지이므로 신고가 불가능합니다.,"	Because this is an old chat message, it cannot be reported."
+ChatError_CantSendMessage,해당 채팅은 보낼 수 없습니다.,You can't send this chat.
+ChatError_CHANNEL_FULL,현재 채널 인원이 꽉 찬 상태 입니다.,The channel is currently full.
+ChatError_CHAT_BAN,채팅 금지 상태 입니다.,Chat is prohibited.
+ChatError_CHAT_SERVER_FULL,채팅 서버 최대 인원 접속 상태 입니다.,The maximum number of people connected to the chat server is reached.
+ChatError_DISABLED_CHANNEL,채널이 활성화 되어 있지 않습니다.,The channel is not active.
+ChatError_DISABLED_SERVICE,해당 서비스가 활성화 되어 있지 않은 상태 입니다.,The service is not activated.
+ChatError_INVALID_PARAMETER,인자 값을 잘못 입력 하였습니다.,The parameter value was entered incorrectly.
+ChatError_LeaveChannel,채널 접속이 끊겼습니다. 재연결 될 때 까지 잠시만 기다려 주세요.,The channel has been disconnected. Please wait for the channel to be reconnected.
+ChatError_MESSAGE_FILTERED,	채팅 메시지가 필터링 되었습니다.,	Chat messages have been filtered.
+ChatError_MESSAGE_SPAM,채팅 메시지 도배로 인해 메시지가 차단 되었습니다.,The message has been blocked due to chat messages being flooded.
+ChatError_MESSAGE_TOO_LONG,	채팅 메시지 길이가 너무 깁니다.,	Chat message length is too long.
+ChatError_MESSAGE_TOO_SHORT,채팅 메시지 길이가 너무 짧습니다.,Chat message length is too short.
+ChatError_NOT_JOIN_CHANNEL,입장 되어 있는 채널이 아닙니다.,This is not a channel you are currently in.
+ChatError_NOT_MY_REPORT,자기 자신을 신고 할 수 없습니다.,You cannot report yourself.
+ChatError_NOT_NICKNAME,닉네임을 설정 하지 않았습니다.,No nickname has been set.
+ChatError_TOO_MANY_REPORT,오늘 하루 신고 가능 횟수를 모두 사용 하였습니다.,We have used up the number of reports available for today.
+ChatError_WHISPER_OFFLINE,귓속말 상대가 오프라인 상태 입니다.,The person you are whispering to is offline.
+ChatFormat_Admin,<b>운영자 : {0}</b>,<b>Operator: {0}</b>
+ChatFormat_Notification,[안내] : {0},[Guide]: {0}
+ChatFormat_Rank,[{0}위],[{0}above]
+ChatSuccess_Success_REPORT,신고 처리 완료하였습니다.,The report has been processed.
+Common_Dia,다이아,Diamond
+Common_Gold,골드,Gold
+Condition,조건,condition
+Count,개, Count
+DailyAttendance,일일 보상,daily rewards
+DailyMission,일일 임무,daily mission
+DailyMissionDescription,"*스테이지레벨에 의해 임무조건, 보상이 달라집니다.",*Mission conditions and rewards vary depending on the stage level.
+Decision,결정,decision
+DrainStatFormat,(기본공격시{0}% 최대치{1}),(On basic attack{0}% maximum{1})
+Drawer,추출기,SuperiorDrawer
+DrawerFail,추출실패,Drawer Fail
+EBossMobKill,진화보스몹 처치수,Evolution Boss Mob Kills
+EnterNickname,닉네임 입력,Enter nickname
+Equip,장착,Equipped
+Equipment_Back,등,Back
+Equipment_Cloak,망토,Cloak
+Equipment_Clothes,상/하의,Clothes
+Equipment_Earrings,귀걸이,Earrings
+Equipment_Gloves,장갑,Gloves
+Equipment_Hat,모자,Hat
+Equipment_LeftBracelet,팔찌1,LeftBracelet
+Equipment_LeftRing,반지1,LeftRing
+Equipment_Mask,가면,Mask
+Equipment_Pet,펫,Pet
+Equipment_RightBracelet,팔찌2,RightBracelet
+Equipment_RightRing,반지2,RightRing
+Equipment_Shoes,신발,Shoes
+Equipment_Weapon,무기,Weapon
+Equipment_Wing,날개,Wing
+Equipment_Necklace,목걸이,Necklace
+Evolution,진화,evolution
+EvolutionCondition,진화조건,Evolution Conditions
+Fixed,고정,Fiexd
+GettingTopOption,상위 장비레벨이 나올 확률 {0}%,Probability of getting the top option {0}%
+Grade_Normal,일반,Normal
+Grade_Rare,희귀,Rare
+Grade_Superior,고급,Superior
+Grade_Unique,유일,Unique
+Grade_Epic,서사,narrative
+Grade_Hero,영웅,hero
+Grade_Ancient,고대,youth of the world
+Grade_Abyssal,심연,abyss
+Grade_Legendary,전설,legend
+Grade_Mythic,신화,myth
+Grade_Celestial,천상,heaven
+Grade_Primordial,태초,beginning
+Grade_Absolute,절대,absoluteness
+Guardian,수호자,Guardian
+GuideInfo_Test1,게임관련 도움말 설명게임관련 도움말 설명게임관련 도움말 설명게임관련 도움말 설명게임관련 도움말 설명게임관련 도움말 설명,게임관련 도움말 설명게임관련 도움말 설명게임관련 도움말 설명게임관련 도움말 설명게임관련 도움말 설명게임관련 도움말 설명
+HumanPower,인간력,Human Power
+Level,레벨,Level
+Login_TermsPersonalInfo,개인정보 이용약관,Privacy Terms of Use
+Login_TermsService,서비스 이용약관,Terms of Service
+Mage,마법사,Mage
+Message_Blocked,정책 위반에 의해 차단된 계정입니다.,This account has been blocked for policy violations.
+Message_CheckInternet,네트워크 연결이 원활하지 않습니다\n\n인터넷 연결을 확인 후 재시도 해주시기 바랍니다,The network connection is not smooth.\n\nPlease check the Internet connection and try again.
+Message_DuplicatedParameterException,이미 계정이 있어서 전환할수 없습니다,I already have an account so I can't switch.
+Message_Exit,즐거운 하루 되세요!,Have a nice day!
+Message_GuestAccountInfo,"게스트 로그인은 재설치시 데이터가 삭제됩니다\n\n-애플, 구글 로그인을 권장드립니다!\n\n-게스트 로그인 이후에 설정에서 전환 할 수있습니다!",Guest login data will be deleted upon reinstallation\n\n-Apple or Google login is recommended!\n\n-You can switch in settings after guest login!
+Message_Maintenance,서버 점검중 입니다.\n카페공지를 확인해주세요,The server is under maintenance.\nPlease check the cafe notice.
+Message_OtherDeviceLogin,다른 기기에서 로그인이 감지되었습니다.,We've detected a login from another device.
+Message_Ranking,랭킹 초기화 중 입니다,Ranking is being reset
+Message_TooManyRequest,과도한 요청이 감지되었습니다.,Excessive requests have been detected.
+Message_TooManyRequestByLocalError,과도한 요청중입니다.,This is an excessive request.
+Message_UpdateVersion,"버전이 업데이트 되었습니다. \n
+스토어에서 새버전으로 지금 업데이트하세요! \n
+업데이트 버전이 안생길시 \n
+인터넷에 ""스토어 업데이트 오류""를 검색해보세요!","The version has been updated. \n
+Update to the new version in the store now! \n
+If an updated version is not available\n
+Search for “store update error” on the Internet!"
+Message_WithdrawAccountInfo,"회원탈퇴시 유저데이터, 랭킹정보가 삭제되며 \n 복구가 되지 않습니다 탈퇴하시겠습니까? \n 탈퇴 신청 후 정시에 처리 됩니다 \n\n (탈퇴를 안해도 신규가입 가능 공식카페-게임가이드)","When you cancel your membership, your user data and ranking information will be deleted and cannot be restored. Do you want to cancel your membership? \nAfter application for withdrawal, it will be processed on time.\n\n (You can register as a new member even if you do not withdraw. Official Cafe - Game Guide)"
+MyRankFormat,<size=90%><B>{0}</B>\n<size=70%>{1}위     {2:P1}     {3}</size>,<size=90%><B>{0}</B>\n<size=70%>No.{1}     {2:P1}     {3}</size>
+NatualPower,자연력,Natual Power
+NickName,닉네임,NickName
+NomalMobKill,일반몹 처치수,Number of normal mob kills
+OptimizationDamage,데미지,damage
+OptimizationGrapic,그래픽,graphics
+OptimizationHP,체력바,health bar
+OptimizationShadow,그림자,shadow
+OtherEquipmentGrade,전체 장비 등급 {0} 이상,Other equipment Grade {0}
+OtherEquipmentLevels,그외 장비 레벨 {0} 이상,Other equipment levels {0}
+Promotion,승급,advancement
+Ranking,순위,Ranking
+Rate,상위,Rate
+Reward,보상,compensation
+SameOption,기존이랑 동일 장비레벨,Same_Option
+Select,선택,Select
+Sell,판매,Sell
+Sell​LowerOptions,기존보다 하위 장비레벨,LowerOptions
+Setting_BGM,배경음악,background music
+Setting_EnterCoupon,쿠 폰 입 력,Enter coupon
+Setting_FX,효과음,sound effect
+Shift,교체,Shift
+Shop,상점,Shop
+Shop_Gold1,골드1,Gold
+Shop_Gold2,골드2,Gold
+Shop_Gold3,골드3,Gold
+SkillCooldown,재사용시간,Cooldown
+DamageRadius,피해범위,Damage range
+SkillRange,사정거리,range
+DamageFormula,피해공식,Damage formula
+Skill_Info_ArrowRain,화살비를 내려 적에게 광역피해를 입니다,Rains arrows and deals area damage to enemies.
+Skill_Info_BeastTransformation,"적 타격시 분노 스택이 쌓임, 분노 스택 n회 달성시 공격속도 n배, 치명타 확률 n% 증가 n초","When hitting an enemy, a rage stack accumulates. When n rage stacks are achieved, the attack speed is multiplied by n, and the critical hit chance is increased by n% for n seconds."
+Skill_Info_ChainLightning,평타시 타격된 적을 시작으로 가까운 순서대로 연쇄전기를 발사하여 피해를 입힙니다,"During a normal attack, starting from the hit enemy, chain electricity is fired in the nearest order, causing damage."
+Skill_Info_ContinuousHit,10회 기본공격시마다 n(3)연타 시전,Performs n(3) consecutive hits every 10 basic attacks.
+Skill_Info_CriticalShot,n 초간  치명타확률 +n 치명타피해 +n,Critical hit chance +n Critical damage +n for n seconds
+Skill_Info_DemonicBlow,"악귀의 힘을 담은 커다란 화살 하나를 앞으로 발사한다
+","Fires a large arrow containing the power of an evil spirit forward.
+"
+Skill_Info_DodgeBoost,n 초간  회피율 50% 증가,Evasion rate increased by 50% for n seconds
+Skill_Info_DokkaebiFire,수호자 주위로 도깨비불이 빙글빙글 돌며 적에게 닿을 때마다 피해를 입힙니다,"A wisp of fire swirls around the guardian, dealing damage whenever it touches an enemy."
+Skill_Info_Electric,기본공격 n(30)% 확률로 벼락을 내려 침,Basic attack has a n(30)% chance to strike with lightning.
+Skill_Info_Electricshock,주변 적들에게 감전 줄기가 연결되어 지속적으로 피해를 줍니다,"An electric shock is connected to nearby enemies, causing continuous damage."
+Skill_Info_Focus,일반 공격 화살의  발사 개수 1로 고정된다. 줄어든 화살에 개수에 따라 증가된 버프를 부여한다.,The number of normal attack arrows fired is fixed to 1. Grants an increased buff to the reduced number of arrows.
+Skill_Info_ForceField,주변의 적을 사슬로 끌어당기며 기절 효과와 데미지를 줍니다,Pulls nearby enemies into a chain and inflicts stun and damage.
+Skill_Info_FreezingOnBasicAttack,기본공격시 n퍼센트 확률로 빙결시킵니다,"When making a basic attack, there is an n percent chance of freezing."
+Skill_Info_GuardianShield,수호자가 동료 헌터들이 받는 피해 일부를 대신 받습니다,Guardians take some of the damage from fellow hunters
+Skill_Info_HammerSummon,망치로 땅을 내리쳐 맞은 적들에게 기절 효과와 데미지를 줍니다,"Strikes the ground with a hammer, inflicting stun and damage to enemies hit."
+Skill_Info_HPRegenOnEnemyKill,적처치시 nㅠ퍼센트 체력 회복합니다,"When defeating an enemy, n% health is recovered."
+Skill_Info_LastLeaf,"남은 체력에 따라 치명확률, 치명피해, 공격속도가 증가합니다. 1단계 - 치명확률 n%, 치명피해 n%, 공격속도 n% 증가 2단계 - 치명확률 n%, 치명피해 n%, 공격속도 n% 증가 3단계 - 치명확률 n%, 치명피해 n%, 공격속도 n% 증가","Critical rate, critical damage, and attack speed increase depending on remaining health. Stage 1 - Criticality probability n%, critical damage n%, attack speed n% increase Stage 2 - Criticality probability n%, critical damage n%, attack speed n% increase Stage 3 - Criticality probability n%, critical damage n%, attack Increased speed by n%"
+Skill_Info_CoinFilp,동전을 던져 골드 또는 경험치 획득량을 증가시킵니다,Throw a coin to increase gold or experience gain
+Skill_Info_MagneticWaves,헌터 위치에 자기장 진을 생성합니다,Creates a magnetic field at the hunter's location
+Skill_Info_MaximumDose,5번에 걸쳐 최대체력의 40퍼센트를 회복합니다.,Recovers 40% of maximum health over 5 times.
+Skill_Info_Meteor,메테오를 시전합니다,Cast Meteor
+Skill_Info_PoisonOnBasicAttack,기본공격시 n퍼센트 확률로 중독시킵니다,"When making a basic attack, there is an n percent chance of poisoning."
+Skill_Info_ProtectionBless,수호자에게 최대체력의 30퍼센트 만큼의 보호막을 부여합니다,Gives the guardian a shield equal to 30% of maximum health.
+Skill_Info_RageAttack,"n 초간 공격속도 n%, 이동속도 n%가 증가합니다",Attack speed increases by n% and movement speed increases by n% for n seconds.
+Skill_Info_RageShot,n 초간  공격속도 200% 증가,Attack speed increases by 200% for n seconds
+Skill_Info_RapidShot,폭발 화살을 하나 발사해 화살에 맞은 적이 있다면 폭발합니다,Fires an explosive arrow that explodes if it hits anyone.
+Skill_Info_ShroudRay,광선을 발사해 닿은 적들의 방어력을 강탈합니다,Fires a beam of light and steals the defense of enemies it touches.
+Skill_Info_SlowOnBasicAttack,기본공격시 n퍼센트 확률로 둔화시킵니다,"When performing a basic attack, there is a n percent chance of slowing it down."
+Skill_Info_SpikeTrap,앞으로 가시 덫을 발사한다. 만약 적을 맞췄다면 적의 이동속도와 방어력을 낮추는 장판을 소환한다.,"Fires a thorn trap forward. If you hit an enemy, it summons a floor covering that lowers the enemy's movement speed and defense."
+Skill_Info_SplitPiercing,"기본공격으로 적 명중시 화살이 {0}개로 분열하며, 이후 관통 효과로 적에게 피해를 입힌다","When hitting an enemy with a basic attack, the arrow splits into {0} pieces and then deals damage to the enemy through the piercing effect."
+Skill_Info_StrongShot,에너지 파를 생성해 전방의 적들에게 마법 피해를 입힙니다,Generates an energy wave to inflict magic damage to enemies in front.
+Skill_Info_StunOnBasicAttack,기본공격시 n퍼센트 확률로 기절시킵니다,"When making a basic attack, there is an n percent chance of stunning."
+Skill_Info_StunOnBasicAttack1,기본공격시 n퍼센트 확률로 기절시킵니다,"When making a basic attack, there is an n percent chance of stunning."
+Skill_Info_VenomousSting,현재 궁수가 바라보는 방향으로 맹독침 발사한다. 적중시 대상이 사망하면 시전 대상의 최대 HP의 절반의 범위 피해를 준다.,"Fires a poisonous needle in the direction the archer is currently facing. If the target dies when hit, it inflicts area damage equal to half of the target's maximum HP."
+Skill_Info_WeaknessDetection,회피 성공시 1초동안 치명타 확률이 n배 증가한다.,"When evasion is successful, the critical hit chance increases by n times for 1 second."
+Skill_Info_WhirlwindRush,빠르게 회전하며 적들을 휘젓고 다니며 피해를 입힙니다,"Spins quickly, whipping enemies around and inflicting damage."
+Skill_Name_ArrowRain,화살비,rain of arrows
+Skill_Name_BeastTransformation,야수화,beast shoes
+Skill_Name_ChainLightning,연쇄전기,chain electricity
+Skill_Name_ContinuousHit,연타,roll
+Skill_Name_CriticalShot,각성 2,awakening 2
+Skill_Name_DemonicBlow,악귀의 일격,Demon Strike
+Skill_Name_DodgeBoost,회피,evasion
+Skill_Name_DokkaebiFire,도깨비불,wisp
+Skill_Name_Electric,벼락치기,cram
+Skill_Name_Electricshock,감전,electric shock
+Skill_Name_Focus,집중,concentration
+Skill_Name_ForceField,인력장,gravitational field
+Skill_Name_FreezingOnBasicAttack,평타시 빙결,Freezing when hitting flat
+Skill_Name_GuardianShield,아군수호,Guardian of allies
+Skill_Name_HammerSummon,파멸의 망치,Hammer of Doom
+Skill_Name_HPRegenOnEnemyKill,적 처치시 피 회복,Recover blood when killing an enemy
+Skill_Name_LastLeaf,야생의 분노,wild fury
+Skill_Name_LuckyDice,럭키다이스,Lucky Dice
+Skill_Name_MagneticWaves,자기장파,magnetic field waves
+Skill_Name_MaximumDose,최대투여량,Maximum dosage
+Skill_Name_Meteor,메테오,meteor
+Skill_Name_PoisonOnBasicAttack,평타시 중독,Addiction to flat hitting
+Skill_Name_ProtectionBless,보호의 축복,blessing of protection
+Skill_Name_RageAttack,짐승의 포효,roar of the beast
+Skill_Name_RageShot,각성 1,awakening 1
+Skill_Name_RapidShot,래피드샷,Rapid Shot
+Skill_Name_ShroudRay,침묵의 광선,ray of silence
+Skill_Name_SlowOnBasicAttack,평타시 슬로우,Slow when hitting flat
+Skill_Name_SpikeTrap,가시 덫,thorn trap
+Skill_Name_SplitPiercing,분열관통,division penetration
+Skill_Name_StrongShot,정조준 일격,Aimed strike
+Skill_Name_StunOnBasicAttack,평타시 기절,Stun when struck
+Skill_Name_StunOnBasicAttack1,평타시 기절,Stun when struck
+Skill_Name_VenomousSting,맹독침,venomous stinger
+Skill_Name_WeaknessDetection,약점 포착,Spotting Weakness
+Skill_Name_WhirlwindRush,회전돌격,spinning charge
+Skill_UesMP,마나,mana
+SleepModeInfo,절전모드를 해제하려면\n캐릭터를 두 번 두드리세요,To turn off sleep mode\nTap the character twice
+Stage,스테이지,Stage
+StageLevel,스테이지 레벨,stage level
+SuccessProbability,성공확률,SuccessProbability
+SystemNotice_BuyHunterFirst,헌터를 먼저 구매하세요,You should buy hunter first
+SystemNotice_CannotEquipMoreHunter,2개 이상의 헌터 장착불가,Cannot equip more than 2 hunters
+SystemNotice_cannotevloution,진화조건이 안됩니다,The evolution conditions are not met.
+SystemNotice_CannotPromotion,조건 부족 승급 실패,Promotion failed due to lack of conditions
+SystemNotice_DismountableHunter,헌터 1명은 전투에 있어야 합니다!,1 Hunter must be in combat!
+SystemNotice_GetEqiupmentItem,창작할 장비가 없습니다,Get EquipmentItem
+SystemNotice_LackOfPromotionLevel,승급 레벨이 부족합니다,Not enough promotion level
+SystemNotice_LimitReached,일일제한을 모두 이용하였습니다,I used up my daily limit.
+SystemNotice_maimnumlevel,최대 레벨입니다 ,The Final Level
+SystemNotice_MaxPromotionLevel,최대 승급 레벨에 도달했습니다,You have reached the maximum promotion level
+SystemNotice_NeedMoreResource,재화가 부족합니다,There is a shortage of goods
+SystemNotice_SendToMail,우편함으로 지급되었습니다,It has been sent to your mailbox.
+SystemNotice_CannotEquipNotheld,보유하지 않은 장비는 장착할 수 없습니다,You cannot equip equipment you do not own.
+SystemNotice_LevelLimit,레벨 제한,level limit
+Time_Day_Format,{0}일{1}시간{2}분,{0}days{1}hours{2} minutes
+Time_Hour_Format,{0}시간{1}분,{0}hour{1}minute
+Time_MailRemain_Format,{0}일{1}시간 남음,{0}days{1} hours left
+Time_Minute_Format,{0}분,{0} minutes
+Time_Reset_Format,초기화 {0},initialize {0}
+Time_Second_Format,{0}초,{0} seconds
+Title_Agreement,약관동의,Agree to terms and conditions
+Title_Alert,안내,guide
+Title_Attribute,속성,Attribute
+Title_Community,소통,communication
+Title_Credit,만든이,Created by
+Title_DailyMission,일일 임무,Daily Mission
+Title_Dictionary,도감,Dictionary
+Title_Equipment,장비,Equipment
+Title_Exit,종료하기,Quit
+Title_Gacha,소환,recall
+Title_GachaAchievement,소환업적,Summoning Achievements
+Title_Guide,가이드,guide
+Title_Language,언어설정,Language settings
+Title_Mail,우편함,mailbox
+Title_Notification,공지사항,Notifiication
+Title_Optimization,최적화,Optimization
+Title_Promotion,승급,advancement
+Title_PurchaseAchievement,과금업적,SpendingAchievement
+Title_Ranking,랭킹,Ranking
+Title_Setting,설정,setting
+Title_Shop,상점,Shop
+Title_Skill,스킬,skill
+TotalAttribute,총속성,total properties
+TotalPurchase,누적금액,Cumulative Amount
+Unattainment,미달성,Unattainment
+Upgrade,강화,Upgrade
+WeaponEquipmentLevelHigher,무기 장비레벨 {0} 이상,Weapon equipment level n or higher {0}
+WildPower,야생력,Wild_Power
+Title_NonConnectionCompensation,미접속보상,NonConnectionCompensation
+NonConnection,미접속 {0},NonConnection {0}
+MaxiamNonConnection,(최대 {0}시간),maximum {0}  hour
+NonConnectionApplicationTime,미접속 적용시간 {0},Non-connection application time{0}
+Common_Exp,경험치,Exp
+OfflineReward,오프라인 보상,OfflineReward
+PromotionLevelCondition,레벨{0} 달성,Level {0} achieved
+PromotionStageCondition,스테이지 챕터{0} 클리어,Clear stage chapter{0}
+IdleModeRestCycleInfo,피로도 회복중...,Recovering from fatigue...
+SystemNotice_MaxiamResources,재화가 최대치입니다.,MaxiamResources
+RankingUpdateRateInfo,*순위 리스트는 30분마다 갱신됩니다.,*The ranking list is updated every 30 minutes.
+Button_GachaMergeAllAndEquip,일괄합성/장착,Batch synthesis/installation
+SystemNotice_NotClickPresetButton,{0} 중일 때는 사용이 불가능 합니다.,{0} It cannot be used while in operation.
+HoldOption,보유효과,retention effect
+DemonPower,악귀력,DemonPower
+DailySelectSkill,위 스킬 중 {0}개를 장착해주세요,DailySelectSkill of {0}
+DamageType_Physical,물리피해,physical damage
+DamageType_Magic,마법피해,magic damage
+DamageType_PhysicalTrueDamage,물리관통피해,Physical piercing damage
+DamageType_MagicTrueDamage,마법관통피해,Magic Penetration Damage
+None,없음,None
+SkillDamageFormula,{0}{1}% = {2} 의 {3},{0}{1}% = {3} of {2}
+CHGValue_UseMP,마나소모,Mana consumption
+CHGValue_SkillDuration,지속시간,duration
+CHGValue_DMG_PhysicalPower_Physical,물리비례,physical proportion
+CHGValue_DMG_MagicPower_Magic,마법비례,magic proportion
+CHGValue_DMG_PhysicalPower_PhysicalTrueDamage,물리비례,physical proportion
+CHGValue_DMG_MagicPower_MagicTrueDamage,마법비례,magic proportion
+CHGValue_AttackSpeedPercent,공격속도,attack speed
+CHGValue_CriChance,치명확률,Fatal probability
+CHGValue_CriDamage,치명피해,fatal damage
+CHGValue_CastingChance,발동확률,Activation probability
+CHGValue_SplitPiercinNumber,분열개수,Number of divisions
+CHGValue_GoldEarned,골드획득량,Gold acquisition amount
+CHGValue_ExpEarned,경험치획득량,Amount of experience gained
+CHGValue_SplitDamageRate,피해비율,Damage ratio
+CHGValue_SplitPiercingChance,관통확률,Penetration probability
+CHGValue_SplitChance,분열확률,Division probability
+CHGValue_CoupChance,일격확률,Strike probability
+Skill_Name_KillDash,즉살돌진,Instant death rush
+Skill_Info_KillDash,"스킬장착시 치명확률, 일격확률이 증가하며, 치명 또는 일격으로 적을 처치시 {0}초간 이동속도증가 +{1}%가 된다 ","When equipping a skill, the fatality rate and strike probability increase, and when an enemy is killed with a fatality or a strike, movement speed increases +{1}% for {0} seconds. "
+Skill_Name_BloodSurge,혈파,blood wave
+Skill_Info_BloodSurge,기본공격으로 적 명중시 일정확률로 적의 일직선상 모든 적에게 기파의 추가 피해를 입힌다,"When hitting an enemy with a basic attack, there is a certain probability to inflict additional energy damage to all enemies in a line."
+Skill_Name_CoinFilp,동전 던지기,coin toss
+CHGValue_DefensePercent,방어력증가,Increased defense
+CHGValue_AttackPercent,공격력증가,Increased attack power
+CHGValue_EvasionPercent,회피율증가,Increased evasion rate
+CHGValue_MoveSpeedPercent,이동속도증가,Increased movement speed
+CHGValue_StunDuration,기절시간,fainting time
+CHGValue_ChainLightningNumber,연쇄공격개수,Number of chain attacks
+CHGValue_DamageShieldRate,수호피해비율,
+CHGValue_DMG_HP_Magic,체력비례,
+CHGValue_CriChance1,치명확률 1,
+CHGValue_CriDamage1,치명피해 1,
+CHGValue_AttackSpeedPercent1,공격속도 1,
+CHGValue_CriChance2,치명확률 2,
+CHGValue_CriDamage2,치명피해 2,
+CHGValue_AttackSpeedPercent2,공격속도 2,
+CHGValue_CriChance3,치명확률 3,
+CHGValue_CriDamage3,치명피해 3,
+CHGValue_AttackSpeedPercent3,공격속도 3,
+CHGValue_TargetNumber,끌어오는 수,
+CHGValue_CriChanceSet,치명확률 1 / 2 / 3,
+CHGValue_CriDamageSet,치명피해 1 / 2 / 3,
+CHGValue_AttackSpeedPercentSet,공격속도 1 / 2 / 3,

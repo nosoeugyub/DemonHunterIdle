@@ -1,0 +1,5 @@
+Skill_id,Skill_Name,Skill_Spritename,Skill_Cool,Skill_usemana,Skill_manaincress,Skill_Level,Skill_MaxLevel,Skill_value,Skill_Dmamgetype,Skill_type
+1,bomb,bomb_Sprite,5,50,50,1,10,1000,RangeDamage,Active
+2,heal,Heal_Sprite,3,30,30,1,10,2000,Buff,Active
+3,electricarrow,ElectricArrow_Sprite,1,10,10,1,10,3000,SingleDamage,Passive
+4,firearrow,FireArrow_Sprite,4,20,20,1,10,4000,SingleDamage,Passive

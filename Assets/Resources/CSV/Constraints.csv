@@ -1,0 +1,19 @@
+Name,Value,설명,비고
+MAX_LEVEL,4999,사냥꾼의 최대레벨을 제어한다,캐릭터 추가시는 차 후 보완
+MAX_STAGELEVEL,20,스테이지 최대치를 제한,StageTable-StageIndex 마지막 기준으로  / 보스는 1회 처치 
+MAX_UPGRADELEVEL,50,강화 레벨 최대치,신설된 내용
+MAX_SYSTEM_NOTICE,2,시스템알림의 최대 갯수,이름 Alert에서 Notice로 바뀜
+PET_UNLOCK,10,펫슬롯 1승급 후 해금,펫 모든 캐릭터 공통
+WING_UNLOCK,2,펫슬롯 2승급 후 해금,모든 캐릭터 공통
+HUNTER_OPEN_NUMBER,2,"캐릭터 선택창, 전투화면 창에서 캐릭터 표기 관리",
+FIGHTABLE_NUMBER,2,"전투상황(스테이지, 보스)에서 전투 가능한 캐릭터 수",PVP모드ㄷ 등 상황에 따라 해당 개수관리 종류가 추가 될 수 있음 (차 후 고려)
+MAX_HUNTER_COUNT,2,현재 헌터의 총 개수,데이터 로드에 사용되기 때문에 공개하지 않을 헌터도 포함시켜야함
+SKILL_PRESET_COUNT,3,스킬 프리셋 개수,
+HUNTER_UNEQUIP_COOLDOWN,2,헌터 장착해제 쿨다운,
+HUNTER_EQUIP_COOLDOWN,2,헌터 장착시 쿨다운,
+MAXIAM_ITEMDRAWER_GRADE,5,모루 최대 등급,1: 일반  2:고급 이면 고급까지 진화 가능
+MAX_PROMOTION_LEVEL,5,승급 최대치,승급2까지 가능 3부터 안됨
+HUNTER_RESURRECTION_TIME,2,헌터 부활 남은시간,
+HUNTER_RESURRECTION_COEFFICIENT,1,헌터 부활 계수,
+HUNTER_RESURRECTION_MAX,2,헌터 부활 최대치 시간,
+MAX_SKILLUPGREADLEVEL,20,스킬 업그레이드 최대치,

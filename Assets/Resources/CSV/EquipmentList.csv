@@ -1,0 +1,222 @@
+SubClass,Type,Grade,Name,BackgroundName,FixedOption,FixedOptionMinValue,FixedOptionMaxValue,FixedOptionFinalValue,FixedOptionValueUnit,FixedOptionWeightValue,HoldOption,HoldOptionValue,SaleResourceType1,SaleResourceCount1
+Archer,Weapon,Normal,ArcherNormalWeapon,Normal,"PhysicalPowerPercent, MagicPowerPercent, AttackSpeed","10, 10, 1","50, 50, 2","500, 500, 10","10, 10, 0.1","1, 10",,,Dia,"100, 200"
+Archer,Clothes,Normal,ArcherNormalClothes,Normal,"PhysicalDamageReduction, HP, PhysicalPowerDefense","10, 200, 50","50, 1100, 500","2500, 10000, 5000","10, 10, 10","1, 10",,,Dia,"50, 100"
+Archer,Gloves,Normal,ArcherNormalGloves,Normal,"AttackSpeedPercent, HP, PhysicalPowerDefense","10, 200, 50","50, 1100, 500","2500, 10000, 5000","10, 10, 10","1, 10",,,Dia,"100, 200"
+Archer,Shoes,Normal,ArcherNormalShoes,Normal,"MoveSpeedPercent, HP, PhysicalPowerDefense","10, 200, 50","50, 1100, 500","2500, 10000, 5000","10, 10, 10","1, 10",,,Dia,"50, 100"
+Archer,LeftBracelet,Normal,ArcherNormalLeftBracelet,Normal,"CriChance, PhysicalPower, MagicPower","10, 200, 50","50, 1100, 500","2500, 10000, 5000","10, 10, 10","1, 10",,,Dia,"100, 200"
+Archer,RightBracelet,Normal,ArcherNormalRightBracelet,Normal,"CriDamage, PhysicalPower, MagicPower","10, 200, 50","50, 1100, 500","2500, 10000, 5000","10, 10, 10","1, 10",,,Dia,"50, 100"
+Archer,LeftRing,Normal,ArcherNormalLeftRing,Normal,"CriChance, PhysicalPower, MagicPower","10, 200, 50","50, 1100, 500","2500, 10000, 5000","10, 10, 10","1, 10",,,Dia,"100, 200"
+Archer,RightRing,Normal,ArcherNormalRightRing,Normal,"CriDamage, PhysicalPower, MagicPower","10, 200, 50","50, 1100, 500","2500, 10000, 5000","10, 10, 10","1, 10",,,Dia,"50, 100"
+Archer,Weapon,Superior,ArcherSuperiorWeapon,Superior,"PhysicalPowerPercent, MagicPowerPercent, AttackSpeed","10, 10, 1","50, 50, 2","2500, 2500, 10","10, 10, 0.1","1, 10",,,Gold,"100, 200"
+Archer,Clothes,Superior,ArcherSuperiorClothes,Superior,"PhysicalDamageReduction, HP, PhysicalPowerDefense","10, 200, 50","50, 1100, 500","2500, 10000, 5000","10, 10, 10","1, 10",,,Dia,"50, 100"
+Archer,Gloves,Superior,ArcherSuperiorGloves,Superior,"AttackSpeedPercent, HP, PhysicalPowerDefense","10, 200, 50","50, 1100, 500","2500, 10000, 5000","10, 10, 10","1, 10",,,Gold,"100, 200"
+Archer,Shoes,Superior,ArcherSuperiorShoes,Superior,"MoveSpeedPercent, HP, PhysicalPowerDefense","10, 200, 50","50, 1100, 500","2500, 10000, 5000","10, 10, 10","1, 10",,,Dia,"50, 100"
+Archer,LeftBracelet,Superior,ArcherSuperiorLeftBracelet,Superior,"CriChance, PhysicalPower, MagicPower","10, 200, 50","50, 1100, 500","2500, 10000, 5000","10, 10, 10","1, 10",,,Gold,"100, 200"
+Archer,RightBracelet,Superior,ArcherSuperiorRightBracelet,Superior,"CriDamage, PhysicalPower, MagicPower","10, 200, 50","50, 1100, 500","2500, 10000, 5000","10, 10, 10","1, 10",,,Dia,"50, 100"
+Archer,LeftRing,Superior,ArcherSuperiorLeftRing,Superior,"CriChance, PhysicalPower, MagicPower","10, 200, 50","50, 1100, 500","2500, 10000, 5000","10, 10, 10","1, 10",,,Gold,"100, 200"
+Archer,RightRing,Superior,ArcherSuperiorRightRing,Superior,"CriDamage, PhysicalPower, MagicPower","10, 200, 50","50, 1100, 500","2500, 10000, 5000","10, 10, 10","1, 10",,,Dia,"50, 100"
+Archer,Weapon,Rare,ArcherRareWeapon,Rare,"PhysicalPowerPercent, MagicPowerPercent, AttackSpeed","10, 10, 1","50, 50, 2","500, 500, 10","10, 10, 0.1","1, 10",,,Gold,"100, 200"
+Archer,Clothes,Rare,ArcherRareClothes,Rare,"PhysicalDamageReduction, HP, PhysicalPowerDefense","10, 200, 50","50, 1100, 500","2500, 10000, 5000","10, 10, 10","1, 10",,,Dia,"50, 100"
+Archer,Gloves,Rare,ArcherRareGloves,Rare,"AttackSpeedPercent, HP, PhysicalPowerDefense","10, 200, 50","50, 1100, 500","2500, 10000, 5000","10, 10, 10","1, 10",,,Gold,"100, 200"
+Archer,Shoes,Rare,ArcherRareShoes,Rare,"MoveSpeedPercent, HP, PhysicalPowerDefense","10, 200, 50","50, 1100, 500","2500, 10000, 5000","10, 10, 10","1, 10",,,Dia,"50, 100"
+Archer,LeftBracelet,Rare,ArcherRareLeftBracelet,Rare,"CriChance, PhysicalPower, MagicPower","10, 200, 50","50, 1100, 500","2500, 10000, 5000","10, 10, 10","1, 10",,,Gold,"100, 200"
+Archer,RightBracelet,Rare,ArcherRareRightBracelet,Rare,"CriDamage, PhysicalPower, MagicPower","10, 200, 50","50, 1100, 500","2500, 10000, 5000","10, 10, 10","1, 10",,,Dia,"50, 100"
+Archer,LeftRing,Rare,ArcherRareLeftRing,Rare,"CriChance, PhysicalPower, MagicPower","10, 200, 50","50, 1100, 500","2500, 10000, 5000","10, 10, 10","1, 10",,,Gold,"100, 200"
+Archer,RightRing,Rare,ArcherRareRightRing,Rare,"CriDamage, PhysicalPower, MagicPower","10, 200, 50","50, 1100, 500","2500, 10000, 5000","10, 10, 10","1, 10",,,Dia,"50, 100"
+Archer,Necklace,Normal,ArcherNormalNecklace,Normal,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Archer,Necklace,Superior,ArcherSuperiorNecklace,Superior,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,"HP, PhysicalPowerDefense","2000, 500",,
+Archer,Necklace,Rare,ArcherRareNecklace,Rare,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Archer,Necklace,Unique,ArcherUniqueNecklace,Unique,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Archer,Necklace,Epic,ArcherEpicNecklace,Epic,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Archer,Necklace,Hero,ArcherHeroNecklace,Hero,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Archer,Necklace,Ancient,ArcherAncientNecklace,Ancient,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Archer,Necklace,Abyssal,ArcherAbyssalNecklace,Abyssal,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Archer,Necklace,Legendary,ArcherLegendaryNecklace,Legendary,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Archer,Necklace,Mythic,ArcherMythicNecklace,Mythic,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Archer,Necklace,Celestial,ArcherCelestialNecklace,Celestial,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Archer,Necklace,Primordial,ArcherPrimordialNecklace,Primordial,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Archer,Necklace,Absolute,ArcherAbsoluteNecklace,Absolute,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Archer,Earrings,Normal,ArcherNormalEarrings,Normal,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Archer,Earrings,Superior,ArcherSuperiorEarrings,Superior,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Archer,Earrings,Rare,ArcherRareEarrings,Rare,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Archer,Earrings,Unique,ArcherUniqueEarrings,Unique,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Archer,Earrings,Epic,ArcherEpicEarrings,Epic,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Archer,Earrings,Hero,ArcherHeroEarrings,Hero,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Archer,Earrings,Ancient,ArcherAncientEarrings,Ancient,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Archer,Earrings,Abyssal,ArcherAbyssalEarrings,Abyssal,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Archer,Earrings,Legendary,ArcherLegendaryEarrings,Legendary,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Archer,Earrings,Mythic,ArcherMythicEarrings,Mythic,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Archer,Earrings,Celestial,ArcherCelestialEarrings,Celestial,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Archer,Earrings,Primordial,ArcherPrimordialEarrings,Primordial,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Archer,Earrings,Absolute,ArcherAbsoluteEarrings,Absolute,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Archer,Back,Normal,ArcherNormalBack,Normal,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Archer,Back,Superior,ArcherSuperiorBack,Superior,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Archer,Back,Rare,ArcherRareBack,Rare,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Archer,Back,Unique,ArcherUniqueBack,Unique,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Archer,Back,Epic,ArcherEpicBack,Epic,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Archer,Back,Hero,ArcherHeroBack,Hero,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Archer,Back,Ancient,ArcherAncientBack,Ancient,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Archer,Back,Abyssal,ArcherAbyssalBack,Abyssal,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Archer,Back,Legendary,ArcherLegendaryBack,Legendary,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Archer,Back,Mythic,ArcherMythicBack,Mythic,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Archer,Back,Celestial,ArcherCelestialBack,Celestial,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Archer,Back,Primordial,ArcherPrimordialBack,Primordial,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Archer,Back,Absolute,ArcherAbsoluteBack,Absolute,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Archer,Cloak,Normal,ArcherNormalCloak,Normal,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Archer,Cloak,Superior,ArcherSuperiorCloak,Superior,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Archer,Cloak,Rare,ArcherRareCloak,Rare,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Archer,Cloak,Unique,ArcherUniqueCloak,Unique,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Archer,Cloak,Epic,ArcherEpicCloak,Epic,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Archer,Cloak,Hero,ArcherHeroCloak,Hero,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Archer,Cloak,Ancient,ArcherAncientCloak,Ancient,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Archer,Cloak,Abyssal,ArcherAbyssalCloak,Abyssal,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Archer,Cloak,Legendary,ArcherLegendaryCloak,Legendary,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Archer,Cloak,Mythic,ArcherMythicCloak,Mythic,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Archer,Cloak,Celestial,ArcherCelestialCloak,Celestial,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Archer,Cloak,Primordial,ArcherPrimordialCloak,Primordial,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Archer,Cloak,Absolute,ArcherAbsoluteCloak,Absolute,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Guardian,Weapon,Normal,GuardianNormalWeapon,Normal,"PhysicalPowerPercent, MagicPowerPercent, AttackSpeed","10, 10, 1","50, 50, 2","500, 500, 10","10, 10, 0.1","1, 10",,,Gold,"100, 200"
+Guardian,Clothes,Normal,GuardianNormalClothes,Normal,"PhysicalDamageReduction, HP, PhysicalPowerDefense","10, 200, 50","50, 1100, 500","2500, 10000, 5000","10, 10, 10","1, 10",,,Dia,"50, 100"
+Guardian,Gloves,Normal,GuardianNormalGloves,Normal,"AttackSpeedPercent, HP, PhysicalPowerDefense","10, 200, 50","50, 1100, 500","2500, 10000, 5000","10, 10, 10","1, 10",,,Gold,"100, 200"
+Guardian,Shoes,Normal,GuardianNormalShoes,Normal,"MoveSpeedPercent, HP, PhysicalPowerDefense","10, 200, 50","50, 1100, 500","2500, 10000, 5000","10, 10, 10","1, 10",,,Dia,"50, 100"
+Guardian,LeftBracelet,Normal,GuardianNormalLeftBracelet,Normal,"CriChance, PhysicalPower, MagicPower","10, 200, 50","50, 1100, 500","2500, 10000, 5000","10, 10, 10","1, 10",,,Gold,"100, 200"
+Guardian,RightBracelet,Normal,GuardianNormalRightBracelet,Normal,"CriDamage, PhysicalPower, MagicPower","10, 200, 50","50, 1100, 500","2500, 10000, 5000","10, 10, 10","1, 10",,,Dia,"50, 100"
+Guardian,LeftRing,Normal,GuardianNormalLeftRing,Normal,"CriChance, PhysicalPower, MagicPower","10, 200, 50","50, 1100, 500","2500, 10000, 5000","10, 10, 10","1, 10",,,Gold,"100, 200"
+Guardian,RightRing,Normal,GuardianNormalRightRing,Normal,"CriDamage, PhysicalPower, MagicPower","10, 200, 50","50, 1100, 500","2500, 10000, 5000","10, 10, 10","1, 10",,,Dia,"50, 100"
+Guardian,Weapon,Superior,GuardianSuperiorWeapon,Superior,"PhysicalPowerPercent, MagicPowerPercent, AttackSpeed","10, 10, 1","50, 50, 2","2500, 2500, 10","10, 10, 0.1","1, 10",,,Gold,"100, 200"
+Guardian,Clothes,Superior,GuardianSuperiorClothes,Superior,"PhysicalDamageReduction, HP, PhysicalPowerDefense","10, 200, 50","50, 1100, 500","2500, 10000, 5000","10, 10, 10","1, 10",,,Dia,"50, 100"
+Guardian,Gloves,Superior,GuardianSuperiorGloves,Superior,"AttackSpeedPercent, HP, PhysicalPowerDefense","10, 200, 50","50, 1100, 500","2500, 10000, 5000","10, 10, 10","1, 10",,,Gold,"100, 200"
+Guardian,Shoes,Superior,GuardianSuperiorShoes,Superior,"MoveSpeedPercent, HP, PhysicalPowerDefense","10, 200, 50","50, 1100, 500","2500, 10000, 5000","10, 10, 10","1, 10",,,Dia,"50, 100"
+Guardian,LeftBracelet,Superior,GuardianSuperiorLeftBracelet,Superior,"CriChance, PhysicalPower, MagicPower","10, 200, 50","50, 1100, 500","2500, 10000, 5000","10, 10, 10","1, 10",,,Gold,"100, 200"
+Guardian,RightBracelet,Superior,GuardianSuperiorRightBracelet,Superior,"CriDamage, PhysicalPower, MagicPower","10, 200, 50","50, 1100, 500","2500, 10000, 5000","10, 10, 10","1, 10",,,Dia,"50, 100"
+Guardian,LeftRing,Superior,GuardianSuperiorLeftRing,Superior,"CriChance, PhysicalPower, MagicPower","10, 200, 50","50, 1100, 500","2500, 10000, 5000","10, 10, 10","1, 10",,,Gold,"100, 200"
+Guardian,RightRing,Superior,GuardianSuperiorRightRing,Superior,"CriDamage, PhysicalPower, MagicPower","10, 200, 50","50, 1100, 500","2500, 10000, 5000","10, 10, 10","1, 10",,,Dia,"50, 100"
+Guardian,Weapon,Rare,GuardianRareWeapon,Rare,"PhysicalPowerPercent, MagicPowerPercent, AttackSpeed","10, 10, 1","50, 50, 2","500, 500, 10","10, 10, 0.1","1, 10",,,Gold,"100, 200"
+Guardian,Clothes,Rare,GuardianRareClothes,Rare,"PhysicalDamageReduction, HP, PhysicalPowerDefense","10, 200, 50","50, 1100, 500","2500, 10000, 5000","10, 10, 10","1, 10",,,Dia,"50, 100"
+Guardian,Gloves,Rare,GuardianRareGloves,Rare,"AttackSpeedPercent, HP, PhysicalPowerDefense","10, 200, 50","50, 1100, 500","2500, 10000, 5000","10, 10, 10","1, 10",,,Gold,"100, 200"
+Guardian,Shoes,Rare,GuardianRareShoes,Rare,"MoveSpeedPercent, HP, PhysicalPowerDefense","10, 200, 50","50, 1100, 500","2500, 10000, 5000","10, 10, 10","1, 10",,,Dia,"50, 100"
+Guardian,LeftBracelet,Rare,GuardianRareLeftBracelet,Rare,"CriChance, PhysicalPower, MagicPower","10, 200, 50","50, 1100, 500","2500, 10000, 5000","10, 10, 10","1, 10",,,Gold,"100, 200"
+Guardian,RightBracelet,Rare,GuardianRareRightBracelet,Rare,"CriDamage, PhysicalPower, MagicPower","10, 200, 50","50, 1100, 500","2500, 10000, 5000","10, 10, 10","1, 10",,,Dia,"50, 100"
+Guardian,LeftRing,Rare,GuardianRareLeftRing,Rare,"CriChance, PhysicalPower, MagicPower","10, 200, 50","50, 1100, 500","2500, 10000, 5000","10, 10, 10","1, 10",,,Gold,"100, 200"
+Guardian,RightRing,Rare,GuardianRareRightRing,Rare,"CriDamage, PhysicalPower, MagicPower","10, 200, 50","50, 1100, 500","2500, 10000, 5000","10, 10, 10","1, 10",,,Dia,"50, 100"
+Guardian,Necklace,Normal,GuardianNormalNecklace,Normal,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Guardian,Necklace,Superior,GuardianSuperiorNecklace,Superior,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,"HP, PhysicalPowerDefense","2000, 500",,
+Guardian,Necklace,Rare,GuardianRareNecklace,Rare,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Guardian,Necklace,Unique,GuardianUniqueNecklace,Unique,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Guardian,Necklace,Epic,GuardianEpicNecklace,Epic,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Guardian,Necklace,Hero,GuardianHeroNecklace,Hero,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Guardian,Necklace,Ancient,GuardianAncientNecklace,Ancient,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Guardian,Necklace,Abyssal,GuardianAbyssalNecklace,Abyssal,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Guardian,Necklace,Legendary,GuardianLegendaryNecklace,Legendary,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Guardian,Necklace,Mythic,GuardianMythicNecklace,Mythic,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Guardian,Necklace,Celestial,GuardianCelestialNecklace,Celestial,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Guardian,Necklace,Primordial,GuardianPrimordialNecklace,Primordial,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Guardian,Necklace,Absolute,GuardianAbsoluteNecklace,Absolute,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Guardian,Earrings,Normal,GuardianNormalEarrings,Normal,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Guardian,Earrings,Superior,GuardianSuperiorEarrings,Superior,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Guardian,Earrings,Rare,GuardianRareEarrings,Rare,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Guardian,Earrings,Unique,GuardianUniqueEarrings,Unique,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Guardian,Earrings,Epic,GuardianEpicEarrings,Epic,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Guardian,Earrings,Hero,GuardianHeroEarrings,Hero,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Guardian,Earrings,Ancient,GuardianAncientEarrings,Ancient,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Guardian,Earrings,Abyssal,GuardianAbyssalEarrings,Abyssal,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Guardian,Earrings,Legendary,GuardianLegendaryEarrings,Legendary,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Guardian,Earrings,Mythic,GuardianMythicEarrings,Mythic,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Guardian,Earrings,Celestial,GuardianCelestialEarrings,Celestial,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Guardian,Earrings,Primordial,GuardianPrimordialEarrings,Primordial,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Guardian,Earrings,Absolute,GuardianAbsoluteEarrings,Absolute,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Guardian,Back,Normal,GuardianNormalBack,Normal,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Guardian,Back,Superior,GuardianSuperiorBack,Superior,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Guardian,Back,Rare,GuardianRareBack,Rare,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Guardian,Back,Unique,GuardianUniqueBack,Unique,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Guardian,Back,Epic,GuardianEpicBack,Epic,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Guardian,Back,Hero,GuardianHeroBack,Hero,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Guardian,Back,Ancient,GuardianAncientBack,Ancient,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Guardian,Back,Abyssal,GuardianAbyssalBack,Abyssal,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Guardian,Back,Legendary,GuardianLegendaryBack,Legendary,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Guardian,Back,Mythic,GuardianMythicBack,Mythic,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Guardian,Back,Celestial,GuardianCelestialBack,Celestial,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Guardian,Back,Primordial,GuardianPrimordialBack,Primordial,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Guardian,Back,Absolute,GuardianAbsoluteBack,Absolute,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Guardian,Cloak,Normal,GuardianNormalCloak,Normal,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Guardian,Cloak,Superior,GuardianSuperiorCloak,Superior,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Guardian,Cloak,Rare,GuardianRareCloak,Rare,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Guardian,Cloak,Unique,GuardianUniqueCloak,Unique,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Guardian,Cloak,Epic,GuardianEpicCloak,Epic,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Guardian,Cloak,Hero,GuardianHeroCloak,Hero,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Guardian,Cloak,Ancient,GuardianAncientCloak,Ancient,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Guardian,Cloak,Abyssal,GuardianAbyssalCloak,Abyssal,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Guardian,Cloak,Legendary,GuardianLegendaryCloak,Legendary,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Guardian,Cloak,Mythic,GuardianMythicCloak,Mythic,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Guardian,Cloak,Celestial,GuardianCelestialCloak,Celestial,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Guardian,Cloak,Primordial,GuardianPrimordialCloak,Primordial,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,HP,2000,,
+Guardian,Cloak,Absolute,GuardianAbsoluteCloak,Absolute,"PhysicalPowerPercent, MagicPowerPercent, PhysicalPowerDefense","200, 200, 50",,,,,,,,
+Mage,Weapon,Normal,MageNormalWeapon,Normal,"PhysicalPower, MagicPower, HP","10, 200","50, 1100,","2500, 2500","24, 10, 10","1, 10",,,Gold,"100, 200"
+Mage,Clothes,Normal,MageNormalClothes,Normal,"PhysicalPower, MagicPower, HP","10, 200","50, 1100,","2500, 2500","24, 10, 10","1, 10",,,Dia,"50, 100"
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,Normal,,,,,,,,,,
+,,,,Rare,,,,,,,,,,
+,,,,Unique,,,,,,,,,,
+,,,,Epic,,,,,,,,,,
+,,,,Hero,,,,,,,,,,
+,,,,Ancient,,,,,,,,,,
+,,,,Abyssal,,,,,,,,,,
+,,,,Legendary,,,,,,,,,,
+,,,,Mythic,,,,,,,,,,
+,,,,Celestial,,,,,,,,,,
+,,,,Primordial,,,,,,,,,,
+,,,,Absolute,,,,,,,,,,
+,,,,Normal,,,,,,,,,,
+,,,,Superior,,,,,,,,,,
+,,,,Rare,,,,,,,,,,
+,,,,Unique,,,,,,,,,,
+,,,,Epic,,,,,,,,,,
+,,,,Hero,,,,,,,,,,
+,,,,Ancient,,,,,,,,,,
+,,,,Abyssal,,,,,,,,,,
+,,,,Legendary,,,,,,,,,,
+,,,,Mythic,,,,,,,,,,
+,,,,Celestial,,,,,,,,,,
+,,,,Primordial,,,,,,,,,,
+,,,,Absolute,,,,,,,,,,
+,,,,Normal,,,,,,,,,,
+,,,,Superior,,,,,,,,,,
+,,,,Rare,,,,,,,,,,
+,,,,Unique,,,,,,,,,,
+,,,,Epic,,,,,,,,,,
+,,,,Hero,,,,,,,,,,
+,,,,Ancient,,,,,,,,,,
+,,,,Abyssal,,,,,,,,,,
+,,,,Legendary,,,,,,,,,,
+,,,,Mythic,,,,,,,,,,
+,,,,Celestial,,,,,,,,,,
+,,,,Primordial,,,,,,,,,,
+,,,,Absolute,,,,,,,,,,
+,,,,Normal,,,,,,,,,,
+,,,,Superior,,,,,,,,,,
+,,,,Rare,,,,,,,,,,
+,,,,Unique,,,,,,,,,,
+,,,,Epic,,,,,,,,,,
+,,,,Hero,,,,,,,,,,
+,,,,Ancient,,,,,,,,,,
+,,,,Abyssal,,,,,,,,,,
+,,,,Legendary,,,,,,,,,,
+,,,,Mythic,,,,,,,,,,
+,,,,Celestial,,,,,,,,,,
+,,,,Primordial,,,,,,,,,,
+,,,,Absolute,,,,,,,,,,

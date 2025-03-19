@@ -1,0 +1,14 @@
+Index,RewardName,Prob,Count,FrameEffect,ChatBroadcast
+1,Dia,5.000,100,Legend,TRUE
+2,Superior,1.000,2,Rare,FALSE
+3,Normal,9.400,5,Rare,TRUE
+4,Gold,9.400,1,FALSE,FALSE
+5,Gold,9.400,1,FALSE,FALSE
+6,Gold,9.400,1,FALSE,FALSE
+7,Gold,9.400,1,FALSE,FALSE
+8,Gold,9.400,1,FALSE,FALSE
+9,Gold,9.400,1,FALSE,FALSE
+10,Gold,9.400,1,FALSE,FALSE
+11,Gold,9.400,1,FALSE,FALSE
+12,Gold,9.400,1,FALSE,FALSE
+,나오는 아이템,100.000,아이템 개수,아이템 테두리이펙트 표현 관리,채팅알림 관리

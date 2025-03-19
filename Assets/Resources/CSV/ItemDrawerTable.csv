@@ -1,0 +1,18 @@
+순서,추출기등급,추출 확률,추출시 재료종류,추출시 재료 개수,추출시 나올 수 있는 장비레벨,추출기 진화 확률,추출기 진화 재화 종류,추출기 진화 재화 개수,"추출기 진화조건1
+-해당 장비레벨","추출기 진화조건2
+-그외 장비레벨 및 개수","추출기 진화조건3
+-그외 장비등급 및 개수"
+Index,DrawerGrade,DrawerProb,DrawerResourceType,DrawerResourceCount,DrawerEquipmentLevelRange,EvolutionProb,EvolutionResourceType,EvolutionResourceCount,EvolutionReqCurrentEquipmentLevel,EvolutionReqTotalEquipmentLevel,EvolutionReqTotalEquipmentGrade
+1,Normal,100,Dia,10,"0, 1000",90,Dia,10,1,1,Normal
+2,Superior,100,Dia,12,"0, 1000",80,Gold,12,1,1,Normal
+3,Rare,100,Dia,14,"0, 1000",70,Dia,14,1,1,Rare
+4,Unique,100,Dia,16,"0, 1000",60,Gold,16,1,1,Unique
+5,Epic,100,Dia,18,"0, 1000",50,Dia,18,1,1,Epic
+6,Hero,100,Dia,20,"0, 1000",45,Gold,20,1,1,Hero
+7,Ancient,100,Dia,22,"0, 1000",40,Dia,22,1,1,Ancient
+8,Abyssal,100,Dia,24,"0, 1000",35,Gold,24,1,1,Abyssal
+9,Legendary,100,Dia,26,"0, 1000",30,Dia,26,1,1,Legendary
+10,Mythic,100,Dia,28,"0, 1000",25,Gold,28,1,1,Mythic
+11,Celestial,100,Dia,30,"0, 1000",20,Dia,30,1,1,Celestial
+12,Primordial,100,Dia,32,"0, 1000",15,Gold,32,1,1,Primordial
+13,Absolute,100,Dia,34,"0, 1000",10,Dia,34,1,1,Absolute
