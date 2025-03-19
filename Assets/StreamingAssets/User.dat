@@ -1,0 +1,24 @@
+{ClearStageLevel:{3},UserHasResource:{{{Gold,10504},{Dia,0}}},UserClassData:{{Archer:{{{Level:{3}},{Exp:{44}},{HunterUpgrade:{{PhysicalPower,0},{MagicPower,0},{PhysicalPowerDefense,0},{HP,0},{MP,0},{CriChance,0},{CriDamage,0},{AttackSpeedPercent,0},{MoveSpeedPercent,0},{GoldBuff,0},{ExpBuff,0},{ItemBuff,0}}},{HunterAttribute:{5,0,0,0}},{HunterPromotion:{0}}}}},{Guardian:{{{Level:{11}},{Exp:{2775}},{HunterUpgrade:{{PhysicalPower,0},{MagicPower,0},{PhysicalPowerDefense,0},{HP,0},{MP,0},{CriChance,0},{CriDamage,0},{AttackSpeedPercent,0},{MoveSpeedPercent,0},{GoldBuff,0},{ExpBuff,0},{ItemBuff,0}}},{HunterAttribute:{538,0,0,0}},{HunterPromotion:{0}}}}}},ArcherSkillSlotindex:{{{0,Empty,Empty,Empty,Empty},{1,Empty,Empty,Empty,Empty},{2,Empty,Empty,Empty,Empty}}},GuardianSkillSlotindex:{{{0,Empty,Empty,WhirlwindRush,Empty},{1,Empty,Empty,Empty,Empty},{2,Empty,Empty,Empty,Empty}}},MageSkillSlotindex:{{{0,Empty,Empty,Empty,Empty},{1,Empty,Empty,Empty,Empty},{2,Empty,Empty,Empty,Empty}}}, PurchasedSkillPreset:{{{Archer:{System.Boolean[]}},{Guardian:{System.Boolean[]}},{Mage:{System.Boolean[]}}}}, EquippedSkillPreset:{0,0,0}, PurchasedHunters:{True,True,False}, SelectedTabHunter:{1}, SelectedBattleHunters:{Guardian} , DailySkillSlotIndex:{MagicTrueDamage,CriDamage}, isDailySkill:{True} , UserSaveForTime:{2024-10-25 오후 3:55:38}, TotalPurchase:{0}, RewardReceived:{False,False,False,False,False,False,False,False,False,False}, GameVersion:{1.0.15},DailyMissionTaskProgress:{1,688,0},DailyMissionClaimStatus:{0,0,0},ArcherDailyGachaLimit:{0,0,0,0,0,0,0,0},GuardianDailyGachaLimit:{0,0,0,0,0,0,0,0},MageDailyGachaLimit:{0,0,0,0,0,0,0,0},ArcherGachaRewardReceived:{{"Pet", {false, false, false, false, false, false, false, false, false, false}}, {"Hat", {false, false, false, false, false, false, false, false, false, false}}, {"Cloak", {false, false, false, false, false, false, false, false, false, false}}, {"Necklace", {false, false, false, false, false, false, false, false, false, false}}, {"Wing", {false, false, false, false, false, false, false, false, false, false}}, {"Mask", {false, false, false, false, false, false, false, false, false, false}}, {"Back", {false, false, false, false, false, false, false, false, false, false}}, {"Earrings", {false, false, false, false, false, false, false, false, false, false}}},GuardianGachaRewardReceived:{{"Pet", {false, false, false, false, false, false, false, false, false, false}}, {"Hat", {false, false, false, false, false, false, false, false, false, false}}, {"Cloak", {false, false, false, false, false, false, false, false, false, false}}, {"Necklace", {false, false, false, false, false, false, false, false, false, false}}, {"Wing", {false, false, false, false, false, false, false, false, false, false}}, {"Mask", {false, false, false, false, false, false, false, false, false, false}}, {"Back", {false, false, false, false, false, false, false, false, false, false}}, {"Earrings", {false, false, false, false, false, false, false, false, false, false}}},MageGachaRewardReceived:{{"Pet", {false, false, false, false, false, false, false, false, false, false}}, {"Hat", {false, false, false, false, false, false, false, false, false, false}}, {"Cloak", {false, false, false, false, false, false, false, false, false, false}}, {"Necklace", {false, false, false, false, false, false, false, false, false, false}}, {"Wing", {false, false, false, false, false, false, false, false, false, false}}, {"Mask", {false, false, false, false, false, false, false, false, false, false}}, {"Back", {false, false, false, false, false, false, false, false, false, false}}, {"Earrings", {false, false, false, false, false, false, false, false, false, false}}},ArcherTotalGacha:{{Pet:{0}},{Hat:{0}},{Cloak:{0}},{Necklace:{0}},{Wing:{0}},{Mask:{0}},{Back:{0}},{Earrings:{0}}},GuardianTotalGacha:{{Pet:{0}},{Hat:{0}},{Cloak:{0}},{Necklace:{0}},{Wing:{0}},{Mask:{0}},{Back:{0}},{Earrings:{0}}},MageTotalGacha:{{Pet:{0}},{Hat:{0}},{Cloak:{0}},{Necklace:{0}},{Wing:{0}},{Mask:{0}},{Back:{0}},{Earrings:{0}}}, AverageAcquisitionResource:{1688,1688},IdleModeRestCycle:{288},IdleModeRestTime:{0}, UserResurrectionTime:{0}, ArcherSkillDic:{{
+  "ArrowRain": 0,
+  "BloodSurge": 0,
+  "CoinFilp": 0,
+  "CriticalShot": 0,
+  "Electric": 0,
+  "Focus": 0,
+  "HunterStance": 0,
+  "KillDash": 0,
+  "RageShot": 0,
+  "RapidShot": 0,
+  "SplitPiercing": 0,
+  "StrongShot": 0
+}}, GurdianSkillDic:{{
+  "ChainLightning": 0,
+  "DokkaebiFire": 0,
+  "Electricshock": 0,
+  "ForceField": 0,
+  "GuardianShield": 0,
+  "HammerSummon": 0,
+  "LastLeaf": 0,
+  "RageAttack": 0,
+  "WhirlwindRush": 0
+}}}
