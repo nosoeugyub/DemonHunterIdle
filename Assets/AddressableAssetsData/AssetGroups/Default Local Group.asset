@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 6f2c00aacf8f7eb43acf9586e79cb9bb
+  m_SerializeEntries:
+  - m_GUID: a4c082fc796f4b84791b07cba94b188f
+    m_Address: Assets/05.Images/UI/Window/Button/BasicButton_ACTIVE.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6d2f55dbddec7554d88e75b79d258fd6
+    m_Address: Assets/05.Images/UI/Window/Button/BottomMainButton_ACTIVE.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1a626a12d4bfa1d4a99cd07b6ee3cce1
+    m_Address: Assets/05.Images/UI/Window/Button/BottomMainButton_DEACTIVE.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 02227987f80121f4999af572c428d678, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 5cab7b7d0b38bd54d8f4aab28520d8da, type: 2}
+    - {fileID: 11400000, guid: f3d06b8e611db6e42a7c095350405d88, type: 2}
